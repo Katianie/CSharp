@@ -1,0 +1,25 @@
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\Who_is_that_Actor.Properties.Resources.resources
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.exe
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.pdb
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.exe
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.pdb
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\Who_is_that_Actor.Form1.resources
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.exe.manifest
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.application
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.exe.manifest
+C:\Users\Eddie\Desktop\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.application
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.exe
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.pdb
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.exe.manifest
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.application
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.exe
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Debug\Who is that Actor.pdb
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who_is_that_Actor.Form1.resources
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who_is_that_Actor.Properties.Resources.resources
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.csproj.GenerateResource.Cache
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.exe.manifest
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.application
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Debug\Who is that Actor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\RomanNumeralConverter.Form1.resources
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\RomanNumeralConverter.Properties.Resources.resources
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\RomanNumeralConverter.exe
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\RomanNumeralConverter.pdb
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.manifest
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.application
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\RomanNumeralConverter.exe.manifest
+C:\Users\Katianie\Desktop\RomanNumeralConverter\RomanNumeralConverter\obj\x86\Debug\RomanNumeralConverter.application

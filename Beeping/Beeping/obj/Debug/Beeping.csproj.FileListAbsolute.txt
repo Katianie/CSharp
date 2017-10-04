@@ -1,0 +1,10 @@
+C:\Users\Eddie\AppData\Local\Temporary Projects\Beeping\bin\Debug\Beeping.exe
+C:\Users\Eddie\AppData\Local\Temporary Projects\Beeping\bin\Debug\Beeping.pdb
+C:\Users\Eddie\AppData\Local\Temporary Projects\Beeping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eddie\AppData\Local\Temporary Projects\Beeping\obj\Debug\Beeping.exe
+C:\Users\Eddie\AppData\Local\Temporary Projects\Beeping\obj\Debug\Beeping.pdb
+C:\Users\Eddie\Documents\Independant Programing\Beeping\Beeping\obj\Debug\Beeping.exe
+C:\Users\Eddie\Documents\Independant Programing\Beeping\Beeping\obj\Debug\Beeping.pdb
+C:\Users\Eddie\Documents\Independant Programing\Beeping\Beeping\bin\Debug\Beeping.exe
+C:\Users\Eddie\Documents\Independant Programing\Beeping\Beeping\bin\Debug\Beeping.pdb
+C:\Users\Eddie\Documents\Independant Programing\Beeping\Beeping\obj\Debug\ResolveAssemblyReference.cache

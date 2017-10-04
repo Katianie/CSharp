@@ -1,0 +1,22 @@
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.exe.manifest
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.application
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.exe
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.pdb
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who_is_that_Actor.Form1.resources
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who_is_that_Actor.Properties.Resources.resources
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.csproj.GenerateResource.Cache
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.exe.manifest
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.application
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.exe
+D:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.pdb
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.exe.manifest
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.application
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.exe
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\bin\Release\Who is that Actor.pdb
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who_is_that_Actor.Form1.resources
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who_is_that_Actor.Properties.Resources.resources
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.csproj.GenerateResource.Cache
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.exe.manifest
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.application
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.exe
+E:\Programming\Independant Programing\Who is that Actor\Who is that Actor\obj\x86\Release\Who is that Actor.pdb

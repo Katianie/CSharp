@@ -1,0 +1,9 @@
+Update 5/28/2015: Fixed a bug where some pages were not parsing properly.
+
+Update 9/20/2014: Updated the app to now take into acount multiple titles with the same name, along with names for people in the film and productuon side of the movie/show.
+
+Run Setup.exe and click install.
+
+The program will install and start up, to acsess it go to start>allprograms>WhoIsThatActor and you will see it.
+
+If you have any questions or comments feel free to email me at eddieohagan@optonline.net

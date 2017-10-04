@@ -1,0 +1,8 @@
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\obj\x86\Debug\GetRequestExample.Form1.resources
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\bin\Debug\GetRequestExample.exe
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\bin\Debug\GetRequestExample.pdb
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\obj\x86\Debug\GetRequestExample.exe
+C:\Users\Katianie\Desktop\GetRequestExample\GetRequestExample\obj\x86\Debug\GetRequestExample.pdb
