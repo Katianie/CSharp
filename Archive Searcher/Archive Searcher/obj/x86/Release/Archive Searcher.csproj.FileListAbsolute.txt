@@ -1,0 +1,10 @@
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\bin\Release\Archive Searcher.exe
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\bin\Release\Archive Searcher.pdb
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\obj\x86\Release\Archive_Searcher.frmArchiveSearcher.resources
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\obj\x86\Release\Archive Searcher.exe
+C:\Users\Eddie\Desktop\Archive Searcher\Archive Searcher\obj\x86\Release\Archive Searcher.pdb
+F:\Programming\Archive Searcher\Archive Searcher\obj\x86\Release\Archive Searcher.exe
+F:\Programming\Archive Searcher\Archive Searcher\obj\x86\Release\Archive Searcher.pdb

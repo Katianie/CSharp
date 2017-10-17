@@ -1,0 +1,4846 @@
+Ç====DesktopInfo====
+IconTitleFaceName=Segoe UI
+Name=NT AUTHORITY\SYSTEM
+Pattern=(None)
+
+IconTitleFaceName=Tahoma
+Name=NT AUTHORITY\LOCAL SERVICE
+Pattern=0
+
+IconTitleFaceName=Tahoma
+Name=NT AUTHORITY\NETWORK SERVICE
+Pattern=0
+
+IconTitleFaceName=Segoe UI
+Name=Gilgamesh\Eddie
+Pattern=0
+Wallpaper=C:\Users\Eddie\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+
+IconTitleFaceName=Segoe UI
+Name=.DEFAULT
+Pattern=(None)
+
+
+lgamesh
+Name=Guest
+SID=S-1-5-21-2419137407-1459187912-2932153941-501
+Status=Degraded
+
+Caption=GILGAMESH\Administrators
+Description=Administrators have complete and unrestricted access to the computer/domain
+Domain=GILGAMESH
+Name=Administrators
+SID=S-1-5-32-544
+Status=OK
+
+Caption=GILGAMESH\Backup Operators
+Description=Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+Domain=GILGAMESH
+Name=Backup Operators
+SID=S-1-5-32-551
+Status=OK
+
+Caption=GILGAMESH\Cryptographic Operators
+Description=Members are authorized to perform cryptographic operations.
+Domain=GILGAMESH
+Name=Cryptographic Operators
+SID=S-1-5-32-569
+Status=OK
+
+Caption=GILGAMESH\Distributed COM Users
+Description=Members are allowed to launch, activate and use Distributed COM objects on this machine.
+Domain=GILGAMESH
+Name=Distributed COM Users
+SID=S-1-5-32-562
+Status=OK
+
+Caption=GILGAMESH\Event Log Readers
+Description=Members of this group can read event logs from local machine
+Domain=GILGAMESH
+Name=Event Log Readers
+SID=S-1-5-32-573
+Status=OK
+
+Caption=GILGAMESH\Guests
+Description=Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+Domain=GILGAMESH
+Name=Guests
+SID=S-1-5-32-546
+Status=OK
+
+Caption=GILGAMESH\IIS_IUSRS
+Description=Built-in group used by Internet Information Services.
+Domain=GILGAMESH
+Name=IIS_IUSRS
+SID=S-1-5-32-568
+Status=OK
+
+Caption=GILGAMESH\Network Configuration Operators
+Description=Members in this group can have some administrative privileges to manage configuration of networking features
+Domain=GILGAMESH
+Name=Network Configuration Operators
+SID=S-1-5-32-556
+Status=OK
+
+Caption=GILGAMESH\Performance Log Users
+Description=Members of this group may schedule logging of performance counters, enable trace providers, and collect event traces both locally and via remote access to this computer
+Domain=GILGAMESH
+Name=Performance Log Users
+SID=S-1-5-32-559
+Status=OK
+
+Caption=GILGAMESH\Performance Monitor Users
+Description=Members of this group can access performance counter data locally and remotely
+Domain=GILGAMESH
+Name=Performance Monitor Users
+SID=S-1-5-32-558
+Status=OK
+
+Caption=GILGAMESH\Power Users
+Description=Power Users are included for backwards compatibility and possess limited administrative powers
+Domain=GILGAMESH
+Name=Power Users
+SID=S-1-5-32-547
+Status=OK
+
+Caption=GILGAMESH\Remote Desktop Users
+Description=Members in this group are granted the right to logon remotely
+Domain=GILGAMESH
+Name=Remote Desktop Users
+SID=S-1-5-32-555
+Status=OK
+
+Caption=GILGAMESH\Replicator
+Description=Supports file replication in a domain
+Domain=GILGAMESH
+Name=Replicator
+SID=S-1-5-32-552
+Status=OK
+
+Caption=GILGAMESH\Users
+Description=Users are prevented from making accidental or intentional system-wide changes and can run most applications
+Domain=GILGAMESH
+Name=Users
+SID=S-1-5-32-545
+Status=OK
+
+Caption=GILGAMESH\Everyone
+Description=GILGAMESH\Everyone
+Domain=GILGAMESH
+Name=Everyone
+SID=S-1-1-0
+Status=OK
+
+Caption=GILGAMESH\LOCAL
+Description=GILGAMESH\LOCAL
+Domain=GILGAMESH
+Name=LOCAL
+SID=S-1-2-0
+Status=OK
+
+Caption=GILGAMESH\CREATOR OWNER
+Description=GILGAMESH\CREATOR OWNER
+Domain=GILGAMESH
+Name=CREATOR OWNER
+SID=S-1-3-0
+Status=OK
+
+Caption=GILGAMESH\CREATOR GROUP
+Description=GILGAMESH\CREATOR GROUP
+Domain=GILGAMESH
+Name=CREATOR GROUP
+SID=S-1-3-1
+Status=OK
+
+Caption=GILGAMESH\CREATOR OWNER SERVER
+Description=GILGAMESH\CREATOR OWNER SERVER
+Domain=GILGAMESH
+Name=CREATOR OWNER SERVER
+SID=S-1-3-2
+Status=OK
+
+Caption=GILGAMESH\CREATOR GROUP SERVER
+Description=GILGAMESH\CREATOR GROUP SERVER
+Domain=GILGAMESH
+Name=CREATOR GROUP SERVER
+SID=S-1-3-3
+Status=OK
+
+Caption=GILGAMESH\OWNER RIGHTS
+Description=GILGAMESH\OWNER RIGHTS
+Domain=GILGAMESH
+Name=OWNER RIGHTS
+SID=S-1-3-4
+Status=OK
+
+Caption=GILGAMESH\DIALUP
+Description=GILGAMESH\DIALUP
+Domain=GILGAMESH
+Name=DIALUP
+SID=S-1-5-1
+Status=OK
+
+Caption=GILGAMESH\NETWORK
+Description=GILGAMESH\NETWORK
+Domain=GILGAMESH
+Name=NETWORK
+SID=S-1-5-2
+Status=OK
+
+Caption=GILGAMESH\BATCH
+Description=GILGAMESH\BATCH
+Domain=GILGAMESH
+Name=BATCH
+SID=S-1-5-3
+Status=OK
+
+Caption=GILGAMESH\INTERACTIVE
+Description=GILGAMESH\INTERACTIVE
+Domain=GILGAMESH
+Name=INTERACTIVE
+SID=S-1-5-4
+Status=OK
+
+Caption=GILGAMESH\SERVICE
+Description=GILGAMESH\SERVICE
+Domain=GILGAMESH
+Name=SERVICE
+SID=S-1-5-6
+Status=OK
+
+Caption=GILGAMESH\ANONYMOUS LOGON
+Description=GILGAMESH\ANONYMOUS LOGON
+Domain=GILGAMESH
+Name=ANONYMOUS LOGON
+SID=S-1-5-7
+Status=OK
+
+Caption=GILGAMESH\PROXY
+Description=GILGAMESH\PROXY
+Domain=GILGAMESH
+Name=PROXY
+SID=S-1-5-8
+Status=OK
+
+Caption=GILGAMESH\SYSTEM
+Description=GILGAMESH\SYSTEM
+Domain=GILGAMESH
+Name=SYSTEM
+SID=S-1-5-18
+Status=OK
+
+Caption=GILGAMESH\ENTERPRISE DOMAIN CONTROLLERS
+Description=GILGAMESH\ENTERPRISE DOMAIN CONTROLLERS
+Domain=GILGAMESH
+Name=ENTERPRISE DOMAIN CONTROLLERS
+SID=S-1-5-9
+Status=OK
+
+Caption=GILGAMESH\SELF
+Description=GILGAMESH\SELF
+Domain=GILGAMESH
+Name=SELF
+SID=S-1-5-10
+Status=OK
+
+Caption=GILGAMESH\Authenticated Users
+Description=GILGAMESH\Authenticated Users
+Domain=GILGAMESH
+Name=Authenticated Users
+SID=S-1-5-11
+Status=OK
+
+Caption=GILGAMESH\RESTRICTED
+Description=GILGAMESH\RESTRICTED
+Domain=GILGAMESH
+Name=RESTRICTED
+SID=S-1-5-12
+Status=OK
+
+Caption=GILGAMESH\TERMINAL SERVER USER
+Description=GILGAMESH\TERMINAL SERVER USER
+Domain=GILGAMESH
+Name=TERMINAL SERVER USER
+SID=S-1-5-13
+Status=OK
+
+Caption=GILGAMESH\REMOTE INTERACTIVE LOGON
+Description=GILGAMESH\REMOTE INTERACTIVE LOGON
+Domain=GILGAMESH
+Name=REMOTE INTERACTIVE LOGON
+SID=S-1-5-14
+Status=OK
+
+Caption=GILGAMESH\IUSR
+Description=GILGAMESH\IUSR
+Domain=GILGAMESH
+Name=IUSR
+SID=S-1-5-17
+Status=OK
+
+Caption=GILGAMESH\LOCAL SERVICE
+Description=GILGAMESH\LOCAL SERVICE
+Domain=GILGAMESH
+Name=LOCAL SERVICE
+SID=S-1-5-19
+Status=OK
+
+Caption=GILGAMESH\NETWORK SERVICE
+Description=GILGAMESH\NETWORK SERVICE
+Domain=GILGAMESH
+Name=NETWORK SERVICE
+SID=S-1-5-20
+Status=OK
+
+Caption=GILGAMESH\BUILTIN
+Description=GILGAMESH\BUILTIN
+Domain=GILGAMESH
+Name=BUILTIN
+SID=S-1-5-32
+Status=OK
+
+
+====BootConfigurationInfo====
+BootDirectory=C:\Windows
+ConfigurationPath=C:\Windows
+LastDrive=I:
+Name=BootConfiguration
+ScratchDirectory=C:\Windows\system32\config\systemprofile\AppData\Local\Temp
+TempDirectory=C:\Windows\system32\config\systemprofile\AppData\Local\Temp
+
+
+====CodecFileInfo====
+Caption=c:\windows\system32\msg711.acm
+CreationClassName=Win32_CodecFile
+CreationDate=20090713201840.083075-240
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\msg711.acm
+Extension=acm
+FileName=msg711
+FileType=acm File
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Audio
+InstallDate=20090713201840.083075-240
+LastAccessed=20090713201840.083075-240
+LastModified=20090713213853.978000-240
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\MSG711.ACM
+Path=\windows\system32\
+Status=OK
+Version=6.1.7600.16385
+
+Caption=c:\windows\system32\imaadp32.acm
+CreationClassName=Win32_CodecFile
+CreationDate=20090713201837.789919-240
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\imaadp32.acm
+Extension=acm
+FileName=imaadp32
+FileType=acm File
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Audio
+InstallDate=20090713201837.789919-240
+LastAccessed=20090713201837.789919-240
+LastModified=20090713213853.947000-240
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\IMAADP32.ACM
+Path=\windows\system32\
+Status=OK
+Version=6.1.7600.16385
+
+Caption=c:\windows\system32\msvidc32.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20101120222415.360136-300
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\msvidc32.dll
+Extension=dll
+FileName=msvidc32
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20101120222415.360136-300
+LastAccessed=20101120222415.360136-300
+LastModified=20101120222415.360136-300
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\MSVIDC32.DLL
+Path=\windows\system32\
+Status=OK
+Version=6.1.7601.17514
+
+Caption=c:\windows\system32\msgsm32.acm
+CreationClassName=Win32_CodecFile
+CreationDate=20090713201840.753862-240
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\msgsm32.acm
+Extension=acm
+FileName=msgsm32
+FileType=acm File
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Audio
+InstallDate=20090713201840.753862-240
+LastAccessed=20090713201840.753862-240
+LastModified=20090713213853.978000-240
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\MSGSM32.ACM
+Path=\windows\system32\
+Status=OK
+Version=6.1.7600.16385
+
+Caption=c:\windows\system32\msrle32.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20101120222415.344536-300
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\msrle32.dll
+Extension=dll
+FileName=msrle32
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20101120222415.344536-300
+LastAccessed=20101120222415.344536-300
+LastModified=20101120222415.344536-300
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\MSRLE32.DLL
+Path=\windows\system32\
+Status=OK
+Version=6.1.7601.17514
+
+Caption=c:\windows\system32\msadp32.acm
+CreationClassName=Win32_CodecFile
+CreationDate=20090713201838.913097-240
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\msadp32.acm
+Extension=acm
+FileName=msadp32
+FileType=acm File
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Audio
+InstallDate=20090713201838.913097-240
+LastAccessed=20090713201838.913097-240
+LastModified=20090713213853.978000-240
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\MSADP32.ACM
+Path=\windows\system32\
+Status=OK
+Version=6.1.7600.16385
+
+Caption=c:\windows\system32\msyuv.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20101120222424.985353-300
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\msyuv.dll
+Extension=dll
+FileName=msyuv
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20101120222424.985353-300
+LastAccessed=20101120222424.985353-300
+LastModified=20101120222424.985353-300
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\MSYUV.DLL
+Path=\windows\system32\
+Status=OK
+Version=6.1.7601.17514
+
+Caption=c:\windows\system32\iyuv_32.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20101120222424.969753-300
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\iyuv_32.dll
+Extension=dll
+FileName=iyuv_32
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20101120222424.969753-300
+LastAccessed=20101120222424.969753-300
+LastModified=20101120222424.985353-300
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\IYUV_32.DLL
+Path=\windows\system32\
+Status=OK
+Version=6.1.7601.17514
+
+Caption=c:\windows\system32\lvcod64.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20120118064426.000000-300
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\lvcod64.dll
+Extension=dll
+FileName=lvcod64
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20120118064426.000000-300
+LastAccessed=20120118064426.000000-300
+LastModified=20120118064426.000000-300
+Manufacturer=Logitech Inc.
+Name=C:\Windows\system32\LVCOD64.DLL
+Path=\windows\system32\
+Status=OK
+Version=13.31.1044.0
+
+Caption=c:\windows\system32\tsbyuv.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20101120222424.954153-300
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\tsbyuv.dll
+Extension=dll
+FileName=tsbyuv
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20101120222424.954153-300
+LastAccessed=20101120222424.954153-300
+LastModified=20101120222424.969753-300
+Manufacturer=Microsoft Corporation
+Name=C:\Windows\system32\TSBYUV.DLL
+Path=\windows\system32\
+Status=OK
+Version=6.1.7601.17514
+
+Caption=c:\windows\system32\l3codeca.acm
+CreationClassName=Win32_CodecFile
+CreationDate=20090713202231.223830-240
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Description=Fraunhofer IIS MPEG Layer-3 Codec
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\l3codeca.acm
+Extension=acm
+FileName=l3codeca
+FileType=acm File
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Audio
+InstallDate=20090713202231.223830-240
+LastAccessed=20090713202231.223830-240
+LastModified=20090713213853.978000-240
+Manufacturer=Fraunhofer Institut Integrierte Schaltungen IIS
+Name=C:\Windows\system32\L3CODECA.ACM
+Path=\windows\system32\
+Status=OK
+Version=1.9.0.401
+
+Caption=c:\windows\system32\xvidvfw.dll
+CreationClassName=Win32_CodecFile
+CreationDate=20170914183251.837200-240
+CSCreationClassName=Win32_ComputerSystem
+CSName=GILGAMESH
+Description=Xvid MPEG-4 Video Codec
+Drive=c:
+EightDotThreeFileName=c:\windows\system32\xvidvfw.dll
+Extension=dll
+FileName=xvidvfw
+FileType=Application Extension
+FSCreationClassName=Win32_FileSystem
+FSName=NTFS
+Group=Video
+InstallDate=20170914183251.837200-240
+LastAccessed=20170914183251.000000-240
+LastModified=20110530094235.000000-240
+Name=C:\Windows\system32\XVIDVFW.DLL
+Path=\windows\system32\
+Status=OK
+
+
+====OperatingSystemInfo====
+BuildNumber=7601
+BuildType=Multiprocessor Free
+Caption=Microsoft Windows 7 Ultimate 
+CodeSet=1252
+CountryCode=1
+CreationClassName=Win32_OperatingSystem
+CSCreationClassName=Win32_ComputerSystem
+CSDVersion=Service Pack 1
+CSName=GILGAMESH
+InstallDate=20161226092639.000000-300
+LastBootUpTime=20170923135833.125600-240
+LocalDateTime=20170927220012.008000-240
+Locale=0409
+Manufacturer=Microsoft Corporation
+MUILanguages=en-USzh-CNko-KRar-SAlv-LVcs-CZnb-NOel-GRnl-NLfi-FIru-RUhe-ILsk-SKit-ITsl-SIfr-FRhu-HUbg-BGes-ESsv-SEth-THuk-UAde-DE
+Name=Microsoft Windows 7 Ultimate |C:\Windows|\Device\Harddisk0\Partition1
+OSArchitecture=64-bit
+RegisteredUser=Eddie
+SerialNumber=00426-OEM-8992662-00173
+Status=OK
+SystemDevice=\Device\HarddiskVolume1
+SystemDirectory=C:\Windows\system32
+SystemDrive=C:
+Version=6.1.7601
+WindowsDirectory=C:\Windows
+
+
+====SystemDriverInfo====
+Caption=1394 OHCI Compliant Host Controller
+CreationClassName=Win32_SystemDriver
+Description=1394 OHCI Compliant Host Controller
+DisplayName=1394 OHCI Compliant Host Controller
+ErrorControl=Normal
+Name=1394ohci
+PathName=C:\Windows\system32\drivers\1394ohci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft ACPI Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft ACPI Driver
+DisplayName=Microsoft ACPI Driver
+ErrorControl=Critical
+Name=ACPI
+PathName=C:\Windows\system32\drivers\ACPI.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=ACPI Power Meter Driver
+CreationClassName=Win32_SystemDriver
+Description=ACPI Power Meter Driver
+DisplayName=ACPI Power Meter Driver
+ErrorControl=Normal
+Name=AcpiPmi
+PathName=C:\Windows\system32\drivers\acpipmi.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=adfs
+CreationClassName=Win32_SystemDriver
+Description=adfs
+DisplayName=adfs
+ErrorControl=Normal
+Name=adfs
+PathName=C:\Windows\system32\drivers\adfs.sys
+ServiceType=Kernel Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=adp94xx
+CreationClassName=Win32_SystemDriver
+Description=adp94xx
+DisplayName=adp94xx
+ErrorControl=Normal
+Name=adp94xx
+PathName=C:\Windows\system32\drivers\adp94xx.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=adpahci
+CreationClassName=Win32_SystemDriver
+Description=adpahci
+DisplayName=adpahci
+ErrorControl=Normal
+Name=adpahci
+PathName=C:\Windows\system32\drivers\adpahci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=adpu320
+CreationClassName=Win32_SystemDriver
+Description=adpu320
+DisplayName=adpu320
+ErrorControl=Normal
+Name=adpu320
+PathName=C:\Windows\system32\drivers\adpu320.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Ancillary Function Driver for Winsock
+CreationClassName=Win32_SystemDriver
+Description=Ancillary Function Driver for Winsock
+DisplayName=Ancillary Function Driver for Winsock
+ErrorControl=Normal
+Name=AFD
+PathName=C:\Windows\system32\drivers\afd.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel AGP Bus Filter
+CreationClassName=Win32_SystemDriver
+Description=Intel AGP Bus Filter
+DisplayName=Intel AGP Bus Filter
+ErrorControl=Normal
+Name=agp440
+PathName=C:\Windows\system32\drivers\agp440.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=aliide
+CreationClassName=Win32_SystemDriver
+Description=aliide
+DisplayName=aliide
+ErrorControl=Critical
+Name=aliide
+PathName=C:\Windows\system32\drivers\aliide.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=amdide
+CreationClassName=Win32_SystemDriver
+Description=amdide
+DisplayName=amdide
+ErrorControl=Critical
+Name=amdide
+PathName=C:\Windows\system32\drivers\amdide.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=AMD K8 Processor Driver
+CreationClassName=Win32_SystemDriver
+Description=AMD K8 Processor Driver
+DisplayName=AMD K8 Processor Driver
+ErrorControl=Normal
+Name=AmdK8
+PathName=C:\Windows\system32\drivers\amdk8.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=AMD Processor Driver
+CreationClassName=Win32_SystemDriver
+Description=AMD Processor Driver
+DisplayName=AMD Processor Driver
+ErrorControl=Normal
+Name=AmdPPM
+PathName=C:\Windows\system32\drivers\amdppm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=amdsata
+CreationClassName=Win32_SystemDriver
+Description=amdsata
+DisplayName=amdsata
+ErrorControl=Normal
+Name=amdsata
+PathName=C:\Windows\system32\drivers\amdsata.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=amdsbs
+CreationClassName=Win32_SystemDriver
+Description=amdsbs
+DisplayName=amdsbs
+ErrorControl=Normal
+Name=amdsbs
+PathName=C:\Windows\system32\drivers\amdsbs.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=amdxata
+CreationClassName=Win32_SystemDriver
+Description=amdxata
+DisplayName=amdxata
+ErrorControl=Normal
+Name=amdxata
+PathName=C:\Windows\system32\drivers\amdxata.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=AppID Driver
+CreationClassName=Win32_SystemDriver
+Description=AppID Driver
+DisplayName=AppID Driver
+ErrorControl=Normal
+Name=AppID
+PathName=C:\Windows\system32\drivers\appid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=arc
+CreationClassName=Win32_SystemDriver
+Description=arc
+DisplayName=arc
+ErrorControl=Normal
+Name=arc
+PathName=C:\Windows\system32\drivers\arc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=arcsas
+CreationClassName=Win32_SystemDriver
+Description=arcsas
+DisplayName=arcsas
+ErrorControl=Normal
+Name=arcsas
+PathName=C:\Windows\system32\drivers\arcsas.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=ASMedia USB3.1 Hub Service
+CreationClassName=Win32_SystemDriver
+Description=ASMedia USB3.1 Hub Service
+DisplayName=ASMedia USB3.1 Hub Service
+ErrorControl=Normal
+Name=asmthub3
+PathName=C:\Windows\system32\DRIVERS\asmthub3.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=ASMedia XHCI Service
+CreationClassName=Win32_SystemDriver
+Description=ASMedia XHCI Service
+DisplayName=ASMedia XHCI Service
+ErrorControl=Normal
+Name=asmtxhci
+PathName=C:\Windows\system32\DRIVERS\asmtxhci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=RAS Asynchronous Media Driver
+CreationClassName=Win32_SystemDriver
+Description=RAS Asynchronous Media Driver
+DisplayName=RAS Asynchronous Media Driver
+ErrorControl=Normal
+Name=AsyncMac
+PathName=C:\Windows\system32\DRIVERS\asyncmac.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=IDE Channel
+CreationClassName=Win32_SystemDriver
+Description=IDE Channel
+DisplayName=IDE Channel
+ErrorControl=Critical
+Name=atapi
+PathName=C:\Windows\system32\drivers\atapi.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgbdisk
+CreationClassName=Win32_SystemDriver
+Description=avgbdisk
+DisplayName=avgbdisk
+ErrorControl=Normal
+Name=avgbdisk
+PathName=C:\Windows\system32\drivers\avgbdiska.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgbidsdriver
+CreationClassName=Win32_SystemDriver
+Description=avgbidsdriver
+DisplayName=avgbidsdriver
+ErrorControl=Normal
+Name=avgbidsdriver
+PathName=C:\Windows\system32\drivers\avgbidsdrivera.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgHwid
+CreationClassName=Win32_SystemDriver
+Description=avgHwid
+DisplayName=avgHwid
+ErrorControl=Normal
+Name=avgHwid
+PathName=C:\Windows\system32\drivers\avgHwid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgMonFlt
+CreationClassName=Win32_SystemDriver
+Description=avgMonFlt
+DisplayName=avgMonFlt
+ErrorControl=Normal
+Name=avgMonFlt
+PathName=C:\Windows\system32\drivers\avgMonFlt.sys
+ServiceType=File System Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgRdr
+CreationClassName=Win32_SystemDriver
+Description=avgRdr
+DisplayName=avgRdr
+ErrorControl=Normal
+Name=avgRdr
+PathName=C:\Windows\system32\drivers\avgRdr2.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgSnx
+CreationClassName=Win32_SystemDriver
+Description=avgSnx
+DisplayName=avgSnx
+ErrorControl=Normal
+Name=avgSnx
+PathName=C:\Windows\system32\drivers\avgSnx.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=avgSP
+CreationClassName=Win32_SystemDriver
+Description=avgSP
+DisplayName=avgSP
+ErrorControl=Normal
+Name=avgSP
+PathName=C:\Windows\system32\drivers\avgSP.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Broadcom NetXtreme II VBD
+CreationClassName=Win32_SystemDriver
+Description=Broadcom NetXtreme II VBD
+DisplayName=Broadcom NetXtreme II VBD
+ErrorControl=Normal
+Name=b06bdrv
+PathName=C:\Windows\system32\drivers\bxvbda.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Broadcom NetXtreme Gigabit Ethernet - NDIS 6.0
+CreationClassName=Win32_SystemDriver
+Description=Broadcom NetXtreme Gigabit Ethernet - NDIS 6.0
+DisplayName=Broadcom NetXtreme Gigabit Ethernet - NDIS 6.0
+ErrorControl=Normal
+Name=b57nd60a
+PathName=C:\Windows\system32\DRIVERS\b57nd60a.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Beep
+CreationClassName=Win32_SystemDriver
+Description=Beep
+DisplayName=Beep
+ErrorControl=Normal
+Name=Beep
+PathName=C:\Windows\system32\drivers\Beep.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=blbdrive
+CreationClassName=Win32_SystemDriver
+Description=blbdrive
+DisplayName=blbdrive
+ErrorControl=Normal
+Name=blbdrive
+PathName=C:\Windows\system32\DRIVERS\blbdrive.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Browser Support Driver
+CreationClassName=Win32_SystemDriver
+Description=Browser Support Driver
+DisplayName=Browser Support Driver
+ErrorControl=Normal
+Name=bowser
+PathName=C:\Windows\system32\DRIVERS\bowser.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Brother USB Mass-Storage Lower Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Brother USB Mass-Storage Lower Filter Driver
+DisplayName=Brother USB Mass-Storage Lower Filter Driver
+ErrorControl=Normal
+Name=BrFiltLo
+PathName=C:\Windows\system32\drivers\BrFiltLo.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Brother USB Mass-Storage Upper Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Brother USB Mass-Storage Upper Filter Driver
+DisplayName=Brother USB Mass-Storage Upper Filter Driver
+ErrorControl=Normal
+Name=BrFiltUp
+PathName=C:\Windows\system32\drivers\BrFiltUp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=MAC Bridge
+CreationClassName=Win32_SystemDriver
+Description=MAC Bridge
+DisplayName=MAC Bridge
+ErrorControl=Normal
+Name=Bridge
+PathName=C:\Windows\system32\DRIVERS\bridge.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=MAC Bridge Miniport
+CreationClassName=Win32_SystemDriver
+Description=MAC Bridge Miniport
+DisplayName=MAC Bridge Miniport
+ErrorControl=Normal
+Name=BridgeMP
+PathName=C:\Windows\system32\DRIVERS\bridge.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Brother MFC Serial Port Interface Driver (WDM)
+CreationClassName=Win32_SystemDriver
+Description=Brother MFC Serial Port Interface Driver (WDM)
+DisplayName=Brother MFC Serial Port Interface Driver (WDM)
+ErrorControl=Normal
+Name=Brserid
+PathName=C:\Windows\system32\Drivers\Brserid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Brother WDM Serial driver
+CreationClassName=Win32_SystemDriver
+Description=Brother WDM Serial driver
+DisplayName=Brother WDM Serial driver
+ErrorControl=Normal
+Name=BrSerWdm
+PathName=C:\Windows\system32\Drivers\BrSerWdm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Brother MFC USB Fax Only Modem
+CreationClassName=Win32_SystemDriver
+Description=Brother MFC USB Fax Only Modem
+DisplayName=Brother MFC USB Fax Only Modem
+ErrorControl=Normal
+Name=BrUsbMdm
+PathName=C:\Windows\system32\Drivers\BrUsbMdm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Brother MFC USB Serial WDM Driver
+CreationClassName=Win32_SystemDriver
+Description=Brother MFC USB Serial WDM Driver
+DisplayName=Brother MFC USB Serial WDM Driver
+ErrorControl=Normal
+Name=BrUsbSer
+PathName=C:\Windows\system32\Drivers\BrUsbSer.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Bluetooth Serial Communications Driver
+CreationClassName=Win32_SystemDriver
+Description=Bluetooth Serial Communications Driver
+DisplayName=Bluetooth Serial Communications Driver
+ErrorControl=Normal
+Name=BTHMODEM
+PathName=C:\Windows\system32\drivers\bthmodem.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Bluetooth USB Security Filter
+CreationClassName=Win32_SystemDriver
+Description=Bluetooth USB Security Filter
+DisplayName=Bluetooth USB Security Filter
+ErrorControl=Normal
+Name=btwsecfl
+PathName=C:\Windows\system32\drivers\btwsecfl.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WIDCOMM USB Bluetooth Driver
+CreationClassName=Win32_SystemDriver
+Description=WIDCOMM USB Bluetooth Driver
+DisplayName=WIDCOMM USB Bluetooth Driver
+ErrorControl=Normal
+Name=BTWUSB
+PathName=C:\Windows\system32\Drivers\btwusb.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=CD/DVD File System Reader
+CreationClassName=Win32_SystemDriver
+Description=CD/DVD File System Reader
+DisplayName=CD/DVD File System Reader
+ErrorControl=Normal
+Name=cdfs
+PathName=C:\Windows\system32\DRIVERS\cdfs.sys
+ServiceType=File System Driver
+StartMode=Disabled
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=CD-ROM Driver
+CreationClassName=Win32_SystemDriver
+Description=CD-ROM Driver
+DisplayName=CD-ROM Driver
+ErrorControl=Normal
+Name=cdrom
+PathName=C:\Windows\system32\DRIVERS\cdrom.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Consumer IR Devices
+CreationClassName=Win32_SystemDriver
+Description=Consumer IR Devices
+DisplayName=Consumer IR Devices
+ErrorControl=Normal
+Name=circlass
+PathName=C:\Windows\system32\drivers\circlass.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Common Log (CLFS)
+CreationClassName=Win32_SystemDriver
+Description=Common Log (CLFS)
+DisplayName=Common Log (CLFS)
+ErrorControl=Critical
+Name=CLFS
+PathName=C:\Windows\system32\CLFS.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft ACPI Control Method Battery Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft ACPI Control Method Battery Driver
+DisplayName=Microsoft ACPI Control Method Battery Driver
+ErrorControl=Normal
+Name=CmBatt
+PathName=C:\Windows\system32\drivers\CmBatt.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=cmdide
+CreationClassName=Win32_SystemDriver
+Description=cmdide
+DisplayName=cmdide
+ErrorControl=Critical
+Name=cmdide
+PathName=C:\Windows\system32\drivers\cmdide.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=CNG
+CreationClassName=Win32_SystemDriver
+Description=CNG
+DisplayName=CNG
+ErrorControl=Critical
+Name=CNG
+PathName=C:\Windows\system32\Drivers\cng.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Compbatt
+CreationClassName=Win32_SystemDriver
+Description=Compbatt
+DisplayName=Compbatt
+ErrorControl=Critical
+Name=Compbatt
+PathName=C:\Windows\system32\drivers\compbatt.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Composite Bus Enumerator Driver
+CreationClassName=Win32_SystemDriver
+Description=Composite Bus Enumerator Driver
+DisplayName=Composite Bus Enumerator Driver
+ErrorControl=Normal
+Name=CompositeBus
+PathName=C:\Windows\system32\DRIVERS\CompositeBus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Crcdisk Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Crcdisk Filter Driver
+DisplayName=Crcdisk Filter Driver
+ErrorControl=Normal
+Name=crcdisk
+PathName=C:\Windows\system32\drivers\crcdisk.sys
+ServiceType=Kernel Driver
+StartMode=Disabled
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Offline Files Driver
+CreationClassName=Win32_SystemDriver
+Description=Offline Files Driver
+DisplayName=Offline Files Driver
+ErrorControl=Normal
+Name=CSC
+PathName=C:\Windows\system32\drivers\csc.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=DFS Namespace Client Driver
+CreationClassName=Win32_SystemDriver
+Description=DFS Namespace Client Driver
+DisplayName=DFS Namespace Client Driver
+ErrorControl=Normal
+Name=DfsC
+PathName=C:\Windows\system32\Drivers\dfsc.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SAMSUNG Mobile USB Composite Device Driver (DEVGURU Ver.)
+CreationClassName=Win32_SystemDriver
+Description=SAMSUNG Mobile USB Composite Device Driver (DEVGURU Ver.)
+DisplayName=SAMSUNG Mobile USB Composite Device Driver (DEVGURU Ver.)
+ErrorControl=Normal
+Name=dg_ssudbus
+PathName=C:\Windows\system32\DRIVERS\ssudbus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=System Attribute Cache
+CreationClassName=Win32_SystemDriver
+Description=System Attribute Cache
+DisplayName=System Attribute Cache
+ErrorControl=Normal
+Name=discache
+PathName=C:\Windows\system32\drivers\discache.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Disk Driver
+CreationClassName=Win32_SystemDriver
+Description=Disk Driver
+DisplayName=Disk Driver
+ErrorControl=Normal
+Name=Disk
+PathName=C:\Windows\system32\drivers\disk.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=dmvsc
+CreationClassName=Win32_SystemDriver
+Description=dmvsc
+DisplayName=dmvsc
+ErrorControl=Ignore
+Name=dmvsc
+PathName=C:\Windows\system32\drivers\dmvsc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=dokan1
+CreationClassName=Win32_SystemDriver
+Description=dokan1
+DisplayName=dokan1
+ErrorControl=Normal
+Name=dokan1
+PathName=C:\Windows\system32\DRIVERS\dokan1.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Trusted Audio Drivers
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Trusted Audio Drivers
+DisplayName=Microsoft Trusted Audio Drivers
+ErrorControl=Normal
+Name=drmkaud
+PathName=C:\Windows\system32\drivers\drmkaud.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=LDDM Graphics Subsystem
+CreationClassName=Win32_SystemDriver
+Description=LDDM Graphics Subsystem
+DisplayName=LDDM Graphics Subsystem
+ErrorControl=Ignore
+Name=DXGKrnl
+PathName=C:\Windows\system32\drivers\dxgkrnl.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel(R) PRO/1000 PCI Express Network Connection Driver D
+CreationClassName=Win32_SystemDriver
+Description=Intel(R) PRO/1000 PCI Express Network Connection Driver D
+DisplayName=Intel(R) PRO/1000 PCI Express Network Connection Driver D
+ErrorControl=Normal
+Name=e1dexpress
+PathName=C:\Windows\system32\DRIVERS\e1d62x64.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Broadcom NetXtreme II 10 GigE VBD
+CreationClassName=Win32_SystemDriver
+Description=Broadcom NetXtreme II 10 GigE VBD
+DisplayName=Broadcom NetXtreme II 10 GigE VBD
+ErrorControl=Normal
+Name=ebdrv
+PathName=C:\Windows\system32\drivers\evbda.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Elgato Game Capture HD60
+CreationClassName=Win32_SystemDriver
+Description=Elgato Game Capture HD60
+DisplayName=Elgato Game Capture HD60
+ErrorControl=Normal
+Name=ElgatoGC656Y
+PathName=C:\Windows\system32\Drivers\ElgatoGC656.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Elgato Sound Capture Drivers
+CreationClassName=Win32_SystemDriver
+Description=Elgato Sound Capture Drivers
+DisplayName=Elgato Sound Capture Drivers
+ErrorControl=Normal
+Name=ElgatoVAD
+PathName=C:\Windows\system32\DRIVERS\ElgatoVAD.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=elxstor
+CreationClassName=Win32_SystemDriver
+Description=elxstor
+DisplayName=elxstor
+ErrorControl=Normal
+Name=elxstor
+PathName=C:\Windows\system32\drivers\elxstor.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Hardware Error Device Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Hardware Error Device Driver
+DisplayName=Microsoft Hardware Error Device Driver
+ErrorControl=Normal
+Name=ErrDev
+PathName=C:\Windows\system32\drivers\errdev.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=exFAT File System Driver
+CreationClassName=Win32_SystemDriver
+Description=exFAT File System Driver
+DisplayName=exFAT File System Driver
+ErrorControl=Normal
+Name=exfat
+PathName=C:\Windows\system32\drivers\exfat.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=FAT12/16/32 File System Driver
+CreationClassName=Win32_SystemDriver
+Description=FAT12/16/32 File System Driver
+DisplayName=FAT12/16/32 File System Driver
+ErrorControl=Normal
+Name=fastfat
+PathName=C:\Windows\system32\drivers\fastfat.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Floppy Disk Controller Driver
+CreationClassName=Win32_SystemDriver
+Description=Floppy Disk Controller Driver
+DisplayName=Floppy Disk Controller Driver
+ErrorControl=Normal
+Name=fdc
+PathName=C:\Windows\system32\drivers\fdc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=File Information FS MiniFilter
+CreationClassName=Win32_SystemDriver
+Description=File Information FS MiniFilter
+DisplayName=File Information FS MiniFilter
+ErrorControl=Normal
+Name=FileInfo
+PathName=C:\Windows\system32\drivers\fileinfo.sys
+ServiceType=File System Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Filetrace
+CreationClassName=Win32_SystemDriver
+Description=Filetrace
+DisplayName=Filetrace
+ErrorControl=Normal
+Name=Filetrace
+PathName=C:\Windows\system32\drivers\filetrace.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Floppy Disk Driver
+CreationClassName=Win32_SystemDriver
+Description=Floppy Disk Driver
+DisplayName=Floppy Disk Driver
+ErrorControl=Normal
+Name=flpydisk
+PathName=C:\Windows\system32\drivers\flpydisk.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=FltMgr
+CreationClassName=Win32_SystemDriver
+Description=FltMgr
+DisplayName=FltMgr
+ErrorControl=Critical
+Name=FltMgr
+PathName=C:\Windows\system32\drivers\fltmgr.sys
+ServiceType=File System Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=File System Dependency Minifilter
+CreationClassName=Win32_SystemDriver
+Description=File System Dependency Minifilter
+DisplayName=File System Dependency Minifilter
+ErrorControl=Critical
+Name=FsDepends
+PathName=C:\Windows\system32\drivers\FsDepends.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Bitlocker Drive Encryption Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Bitlocker Drive Encryption Filter Driver
+DisplayName=Bitlocker Drive Encryption Filter Driver
+ErrorControl=Critical
+Name=fvevol
+PathName=C:\Windows\system32\DRIVERS\fvevol.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Generic AGPv3.0 Filter for K8 Processor Platforms
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Generic AGPv3.0 Filter for K8 Processor Platforms
+DisplayName=Microsoft Generic AGPv3.0 Filter for K8 Processor Platforms
+ErrorControl=Normal
+Name=gagp30kx
+PathName=C:\Windows\system32\drivers\gagp30kx.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Hauppauge Consumer Infrared Receiver
+CreationClassName=Win32_SystemDriver
+Description=Hauppauge Consumer Infrared Receiver
+DisplayName=Hauppauge Consumer Infrared Receiver
+ErrorControl=Normal
+Name=hcw85cir
+PathName=C:\Windows\system32\drivers\hcw85cir.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft 1.1 UAA Function Driver for High Definition Audio Service
+CreationClassName=Win32_SystemDriver
+Description=Microsoft 1.1 UAA Function Driver for High Definition Audio Service
+DisplayName=Microsoft 1.1 UAA Function Driver for High Definition Audio Service
+ErrorControl=Normal
+Name=HdAudAddService
+PathName=C:\Windows\system32\drivers\HdAudio.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft UAA Bus Driver for High Definition Audio
+CreationClassName=Win32_SystemDriver
+Description=Microsoft UAA Bus Driver for High Definition Audio
+DisplayName=Microsoft UAA Bus Driver for High Definition Audio
+ErrorControl=Normal
+Name=HDAudBus
+PathName=C:\Windows\system32\DRIVERS\HDAudBus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=HID UPS Battery Driver
+CreationClassName=Win32_SystemDriver
+Description=HID UPS Battery Driver
+DisplayName=HID UPS Battery Driver
+ErrorControl=Normal
+Name=HidBatt
+PathName=C:\Windows\system32\drivers\HidBatt.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Bluetooth HID Miniport
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Bluetooth HID Miniport
+DisplayName=Microsoft Bluetooth HID Miniport
+ErrorControl=Ignore
+Name=HidBth
+PathName=C:\Windows\system32\drivers\hidbth.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Infrared HID Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Infrared HID Driver
+DisplayName=Microsoft Infrared HID Driver
+ErrorControl=Ignore
+Name=HidIr
+PathName=C:\Windows\system32\drivers\hidir.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft HID Class Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft HID Class Driver
+DisplayName=Microsoft HID Class Driver
+ErrorControl=Ignore
+Name=HidUsb
+PathName=C:\Windows\system32\DRIVERS\hidusb.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=HpSAMD
+CreationClassName=Win32_SystemDriver
+Description=HpSAMD
+DisplayName=HpSAMD
+ErrorControl=Normal
+Name=HpSAMD
+PathName=C:\Windows\system32\drivers\HpSAMD.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=HTTP
+CreationClassName=Win32_SystemDriver
+Description=HTTP
+DisplayName=HTTP
+ErrorControl=Normal
+Name=HTTP
+PathName=C:\Windows\system32\drivers\HTTP.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Hardware Policy Driver
+CreationClassName=Win32_SystemDriver
+Description=Hardware Policy Driver
+DisplayName=Hardware Policy Driver
+ErrorControl=Normal
+Name=hwpolicy
+PathName=C:\Windows\system32\drivers\hwpolicy.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=i8042 Keyboard and PS/2 Mouse Port Driver
+CreationClassName=Win32_SystemDriver
+Description=i8042 Keyboard and PS/2 Mouse Port Driver
+DisplayName=i8042 Keyboard and PS/2 Mouse Port Driver
+ErrorControl=Normal
+Name=i8042prt
+PathName=C:\Windows\system32\DRIVERS\i8042prt.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel RAID Controller Windows 7
+CreationClassName=Win32_SystemDriver
+Description=Intel RAID Controller Windows 7
+DisplayName=Intel RAID Controller Windows 7
+ErrorControl=Normal
+Name=iaStorV
+PathName=C:\Windows\system32\drivers\iaStorV.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=iirsp
+CreationClassName=Win32_SystemDriver
+Description=iirsp
+DisplayName=iirsp
+ErrorControl=Normal
+Name=iirsp
+PathName=C:\Windows\system32\drivers\iirsp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Service for Realtek HD Audio (WDM)
+CreationClassName=Win32_SystemDriver
+Description=Service for Realtek HD Audio (WDM)
+DisplayName=Service for Realtek HD Audio (WDM)
+ErrorControl=Normal
+Name=IntcAzAudAddService
+PathName=C:\Windows\system32\drivers\RTKVHD64.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel HAXM Service
+CreationClassName=Win32_SystemDriver
+Description=Intel HAXM Service
+DisplayName=Intel HAXM Service
+ErrorControl=Normal
+Name=IntelHaxm
+PathName=C:\Windows\system32\DRIVERS\IntelHaxm.sys
+ServiceType=Kernel Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=intelide
+CreationClassName=Win32_SystemDriver
+Description=intelide
+DisplayName=intelide
+ErrorControl=Critical
+Name=intelide
+PathName=C:\Windows\system32\drivers\intelide.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel Processor Driver
+CreationClassName=Win32_SystemDriver
+Description=Intel Processor Driver
+DisplayName=Intel Processor Driver
+ErrorControl=Normal
+Name=intelppm
+PathName=C:\Windows\system32\DRIVERS\intelppm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=IP Traffic Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=IP Traffic Filter Driver
+DisplayName=IP Traffic Filter Driver
+ErrorControl=Normal
+Name=IpFilterDriver
+PathName=C:\Windows\system32\DRIVERS\ipfltdrv.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=IPMIDRV
+CreationClassName=Win32_SystemDriver
+Description=IPMIDRV
+DisplayName=IPMIDRV
+ErrorControl=Normal
+Name=IPMIDRV
+PathName=C:\Windows\system32\drivers\IPMIDrv.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=IP Network Address Translator
+CreationClassName=Win32_SystemDriver
+Description=IP Network Address Translator
+DisplayName=IP Network Address Translator
+ErrorControl=Normal
+Name=IPNAT
+PathName=C:\Windows\system32\drivers\ipnat.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=IR Bus Enumerator
+CreationClassName=Win32_SystemDriver
+Description=IR Bus Enumerator
+DisplayName=IR Bus Enumerator
+ErrorControl=Ignore
+Name=IRENUM
+PathName=C:\Windows\system32\drivers\irenum.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=isapnp
+CreationClassName=Win32_SystemDriver
+Description=isapnp
+DisplayName=isapnp
+ErrorControl=Critical
+Name=isapnp
+PathName=C:\Windows\system32\drivers\isapnp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=iScsiPort Driver
+CreationClassName=Win32_SystemDriver
+Description=iScsiPort Driver
+DisplayName=iScsiPort Driver
+ErrorControl=Normal
+Name=iScsiPrt
+PathName=C:\Windows\system32\drivers\msiscsi.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel(R) USB 3.0 Hub Driver
+CreationClassName=Win32_SystemDriver
+Description=Intel(R) USB 3.0 Hub Driver
+DisplayName=Intel(R) USB 3.0 Hub Driver
+ErrorControl=Normal
+Name=iusb3hub
+PathName=C:\Windows\system32\DRIVERS\iusb3hub.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Intel(R) USB 3.0 eXtensible Host Controller Driver
+CreationClassName=Win32_SystemDriver
+Description=Intel(R) USB 3.0 eXtensible Host Controller Driver
+DisplayName=Intel(R) USB 3.0 eXtensible Host Controller Driver
+ErrorControl=Normal
+Name=iusb3xhc
+PathName=C:\Windows\system32\DRIVERS\iusb3xhc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Keyboard Class Driver
+CreationClassName=Win32_SystemDriver
+Description=Keyboard Class Driver
+DisplayName=Keyboard Class Driver
+ErrorControl=Normal
+Name=kbdclass
+PathName=C:\Windows\system32\DRIVERS\kbdclass.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Keyboard HID Driver
+CreationClassName=Win32_SystemDriver
+Description=Keyboard HID Driver
+DisplayName=Keyboard HID Driver
+ErrorControl=Ignore
+Name=kbdhid
+PathName=C:\Windows\system32\DRIVERS\kbdhid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=KSecDD
+CreationClassName=Win32_SystemDriver
+Description=KSecDD
+DisplayName=KSecDD
+ErrorControl=Critical
+Name=KSecDD
+PathName=C:\Windows\system32\Drivers\ksecdd.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=KSecPkg
+CreationClassName=Win32_SystemDriver
+Description=KSecPkg
+DisplayName=KSecPkg
+ErrorControl=Critical
+Name=KSecPkg
+PathName=C:\Windows\system32\Drivers\ksecpkg.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Kernel Streaming Thunks
+CreationClassName=Win32_SystemDriver
+Description=Kernel Streaming Thunks
+DisplayName=Kernel Streaming Thunks
+ErrorControl=Normal
+Name=ksthunk
+PathName=C:\Windows\system32\drivers\ksthunk.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Link-Layer Topology Discovery Mapper I/O Driver
+CreationClassName=Win32_SystemDriver
+Description=Link-Layer Topology Discovery Mapper I/O Driver
+DisplayName=Link-Layer Topology Discovery Mapper I/O Driver
+ErrorControl=Normal
+Name=lltdio
+PathName=C:\Windows\system32\DRIVERS\lltdio.sys
+ServiceType=Kernel Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=LSI_FC
+CreationClassName=Win32_SystemDriver
+Description=LSI_FC
+DisplayName=LSI_FC
+ErrorControl=Normal
+Name=LSI_FC
+PathName=C:\Windows\system32\drivers\lsi_fc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=LSI_SAS
+CreationClassName=Win32_SystemDriver
+Description=LSI_SAS
+DisplayName=LSI_SAS
+ErrorControl=Normal
+Name=LSI_SAS
+PathName=C:\Windows\system32\drivers\lsi_sas.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=LSI_SAS2
+CreationClassName=Win32_SystemDriver
+Description=LSI_SAS2
+DisplayName=LSI_SAS2
+ErrorControl=Normal
+Name=LSI_SAS2
+PathName=C:\Windows\system32\drivers\lsi_sas2.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=LSI_SCSI
+CreationClassName=Win32_SystemDriver
+Description=LSI_SCSI
+DisplayName=LSI_SCSI
+ErrorControl=Normal
+Name=LSI_SCSI
+PathName=C:\Windows\system32\drivers\lsi_scsi.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=UAC File Virtualization
+CreationClassName=Win32_SystemDriver
+Description=UAC File Virtualization
+DisplayName=UAC File Virtualization
+ErrorControl=Normal
+Name=luafv
+PathName=C:\Windows\system32\drivers\luafv.sys
+ServiceType=File System Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Logitech Webcam C260(UVC)
+CreationClassName=Win32_SystemDriver
+Description=Logitech Webcam C260(UVC)
+DisplayName=Logitech Webcam C260(UVC)
+ErrorControl=Normal
+Name=LVUVC64
+PathName=C:\Windows\system32\DRIVERS\lvuvc64.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=megasas
+CreationClassName=Win32_SystemDriver
+Description=megasas
+DisplayName=megasas
+ErrorControl=Normal
+Name=megasas
+PathName=C:\Windows\system32\drivers\megasas.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=MegaSR
+CreationClassName=Win32_SystemDriver
+Description=MegaSR
+DisplayName=MegaSR
+ErrorControl=Normal
+Name=MegaSR
+PathName=C:\Windows\system32\drivers\MegaSR.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Modem
+CreationClassName=Win32_SystemDriver
+Description=Modem
+DisplayName=Modem
+ErrorControl=Ignore
+Name=Modem
+PathName=C:\Windows\system32\drivers\modem.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Monitor Class Function Driver Service
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Monitor Class Function Driver Service
+DisplayName=Microsoft Monitor Class Function Driver Service
+ErrorControl=Normal
+Name=monitor
+PathName=C:\Windows\system32\DRIVERS\monitor.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Mouse Class Driver
+CreationClassName=Win32_SystemDriver
+Description=Mouse Class Driver
+DisplayName=Mouse Class Driver
+ErrorControl=Normal
+Name=mouclass
+PathName=C:\Windows\system32\drivers\mouclass.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Mouse HID Driver
+CreationClassName=Win32_SystemDriver
+Description=Mouse HID Driver
+DisplayName=Mouse HID Driver
+ErrorControl=Ignore
+Name=mouhid
+PathName=C:\Windows\system32\DRIVERS\mouhid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Mount Point Manager
+CreationClassName=Win32_SystemDriver
+Description=Mount Point Manager
+DisplayName=Mount Point Manager
+ErrorControl=Critical
+Name=mountmgr
+PathName=C:\Windows\system32\drivers\mountmgr.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=mpio
+CreationClassName=Win32_SystemDriver
+Description=mpio
+DisplayName=mpio
+ErrorControl=Normal
+Name=mpio
+PathName=C:\Windows\system32\drivers\mpio.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Windows Firewall Authorization Driver
+CreationClassName=Win32_SystemDriver
+Description=Windows Firewall Authorization Driver
+DisplayName=Windows Firewall Authorization Driver
+ErrorControl=Normal
+Name=mpsdrv
+PathName=C:\Windows\system32\drivers\mpsdrv.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WebDav Client Redirector Driver
+CreationClassName=Win32_SystemDriver
+Description=WebDav Client Redirector Driver
+DisplayName=WebDav Client Redirector Driver
+ErrorControl=Normal
+Name=MRxDAV
+PathName=C:\Windows\system32\drivers\mrxdav.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SMB MiniRedirector Wrapper and Engine
+CreationClassName=Win32_SystemDriver
+Description=SMB MiniRedirector Wrapper and Engine
+DisplayName=SMB MiniRedirector Wrapper and Engine
+ErrorControl=Normal
+Name=mrxsmb
+PathName=C:\Windows\system32\DRIVERS\mrxsmb.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SMB 1.x MiniRedirector
+CreationClassName=Win32_SystemDriver
+Description=SMB 1.x MiniRedirector
+DisplayName=SMB 1.x MiniRedirector
+ErrorControl=Normal
+Name=mrxsmb10
+PathName=C:\Windows\system32\DRIVERS\mrxsmb10.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SMB 2.0 MiniRedirector
+CreationClassName=Win32_SystemDriver
+Description=SMB 2.0 MiniRedirector
+DisplayName=SMB 2.0 MiniRedirector
+ErrorControl=Normal
+Name=mrxsmb20
+PathName=C:\Windows\system32\DRIVERS\mrxsmb20.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=msahci
+CreationClassName=Win32_SystemDriver
+Description=msahci
+DisplayName=msahci
+ErrorControl=Critical
+Name=msahci
+PathName=C:\Windows\system32\drivers\msahci.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=msdsm
+CreationClassName=Win32_SystemDriver
+Description=msdsm
+DisplayName=msdsm
+ErrorControl=Normal
+Name=msdsm
+PathName=C:\Windows\system32\drivers\msdsm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Msfs
+CreationClassName=Win32_SystemDriver
+Description=Msfs
+DisplayName=Msfs
+ErrorControl=Normal
+Name=Msfs
+PathName=C:\Windows\system32\drivers\Msfs.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Pass-through HID to KMDF Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Pass-through HID to KMDF Filter Driver
+DisplayName=Pass-through HID to KMDF Filter Driver
+ErrorControl=Ignore
+Name=mshidkmdf
+PathName=C:\Windows\system32\drivers\mshidkmdf.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=msisadrv
+CreationClassName=Win32_SystemDriver
+Description=msisadrv
+DisplayName=msisadrv
+ErrorControl=Critical
+Name=msisadrv
+PathName=C:\Windows\system32\drivers\msisadrv.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Streaming Service Proxy
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Streaming Service Proxy
+DisplayName=Microsoft Streaming Service Proxy
+ErrorControl=Normal
+Name=MSKSSRV
+PathName=C:\Windows\system32\drivers\MSKSSRV.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Streaming Clock Proxy
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Streaming Clock Proxy
+DisplayName=Microsoft Streaming Clock Proxy
+ErrorControl=Normal
+Name=MSPCLOCK
+PathName=C:\Windows\system32\drivers\MSPCLOCK.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Streaming Quality Manager Proxy
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Streaming Quality Manager Proxy
+DisplayName=Microsoft Streaming Quality Manager Proxy
+ErrorControl=Normal
+Name=MSPQM
+PathName=C:\Windows\system32\drivers\MSPQM.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=MsRPC
+CreationClassName=Win32_SystemDriver
+Description=MsRPC
+DisplayName=MsRPC
+ErrorControl=Normal
+Name=MsRPC
+PathName=C:\Windows\system32\drivers\MsRPC.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft System Management BIOS Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft System Management BIOS Driver
+DisplayName=Microsoft System Management BIOS Driver
+ErrorControl=Normal
+Name=mssmbios
+PathName=C:\Windows\system32\DRIVERS\mssmbios.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Streaming Tee/Sink-to-Sink Converter
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Streaming Tee/Sink-to-Sink Converter
+DisplayName=Microsoft Streaming Tee/Sink-to-Sink Converter
+ErrorControl=Normal
+Name=MSTEE
+PathName=C:\Windows\system32\drivers\MSTEE.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Input Configuration Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Input Configuration Driver
+DisplayName=Microsoft Input Configuration Driver
+ErrorControl=Normal
+Name=MTConfig
+PathName=C:\Windows\system32\drivers\MTConfig.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Mup
+CreationClassName=Win32_SystemDriver
+Description=Mup
+DisplayName=Mup
+ErrorControl=Normal
+Name=Mup
+PathName=C:\Windows\system32\Drivers\mup.sys
+ServiceType=File System Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NativeWiFi Filter
+CreationClassName=Win32_SystemDriver
+Description=NativeWiFi Filter
+DisplayName=NativeWiFi Filter
+ErrorControl=Normal
+Name=NativeWifiP
+PathName=C:\Windows\system32\DRIVERS\nwifi.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NDIS System Driver
+CreationClassName=Win32_SystemDriver
+Description=NDIS System Driver
+DisplayName=NDIS System Driver
+ErrorControl=Critical
+Name=NDIS
+PathName=C:\Windows\system32\drivers\ndis.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NDIS Capture LightWeight Filter
+CreationClassName=Win32_SystemDriver
+Description=NDIS Capture LightWeight Filter
+DisplayName=NDIS Capture LightWeight Filter
+ErrorControl=Normal
+Name=NdisCap
+PathName=C:\Windows\system32\DRIVERS\ndiscap.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Access NDIS TAPI Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Access NDIS TAPI Driver
+DisplayName=Remote Access NDIS TAPI Driver
+ErrorControl=Normal
+Name=NdisTapi
+PathName=C:\Windows\system32\DRIVERS\ndistapi.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NDIS Usermode I/O Protocol
+CreationClassName=Win32_SystemDriver
+Description=NDIS Usermode I/O Protocol
+DisplayName=NDIS Usermode I/O Protocol
+ErrorControl=Normal
+Name=Ndisuio
+PathName=C:\Windows\system32\DRIVERS\ndisuio.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Access NDIS WAN Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Access NDIS WAN Driver
+DisplayName=Remote Access NDIS WAN Driver
+ErrorControl=Normal
+Name=NdisWan
+PathName=C:\Windows\system32\DRIVERS\ndiswan.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NDIS Proxy
+CreationClassName=Win32_SystemDriver
+Description=NDIS Proxy
+DisplayName=NDIS Proxy
+ErrorControl=Normal
+Name=NDProxy
+PathName=C:\Windows\system32\drivers\NDProxy.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NetBIOS Interface
+CreationClassName=Win32_SystemDriver
+Description=NetBIOS Interface
+DisplayName=NetBIOS Interface
+ErrorControl=Normal
+Name=NetBIOS
+PathName=C:\Windows\system32\DRIVERS\netbios.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NetBT
+CreationClassName=Win32_SystemDriver
+Description=NetBT
+DisplayName=NetBT
+ErrorControl=Normal
+Name=NetBT
+PathName=C:\Windows\system32\DRIVERS\netbt.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=nfrd960
+CreationClassName=Win32_SystemDriver
+Description=nfrd960
+DisplayName=nfrd960
+ErrorControl=Normal
+Name=nfrd960
+PathName=C:\Windows\system32\drivers\nfrd960.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Npfs
+CreationClassName=Win32_SystemDriver
+Description=Npfs
+DisplayName=Npfs
+ErrorControl=Normal
+Name=Npfs
+PathName=C:\Windows\system32\drivers\Npfs.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NSI proxy service driver.
+CreationClassName=Win32_SystemDriver
+Description=NSI proxy service driver.
+DisplayName=NSI proxy service driver.
+ErrorControl=Normal
+Name=nsiproxy
+PathName=C:\Windows\system32\drivers\nsiproxy.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Ntfs
+CreationClassName=Win32_SystemDriver
+Description=Ntfs
+DisplayName=Ntfs
+ErrorControl=Normal
+Name=Ntfs
+PathName=C:\Windows\system32\drivers\Ntfs.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Null
+CreationClassName=Win32_SystemDriver
+Description=Null
+DisplayName=Null
+ErrorControl=Normal
+Name=Null
+PathName=C:\Windows\system32\drivers\Null.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Service for NVIDIA High Definition Audio Driver
+CreationClassName=Win32_SystemDriver
+Description=Service for NVIDIA High Definition Audio Driver
+DisplayName=Service for NVIDIA High Definition Audio Driver
+ErrorControl=Normal
+Name=NVHDA
+PathName=C:\Windows\system32\drivers\nvhda64v.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=nvlddmkm
+CreationClassName=Win32_SystemDriver
+Description=nvlddmkm
+DisplayName=nvlddmkm
+ErrorControl=Ignore
+Name=nvlddmkm
+PathName=C:\Windows\system32\DRIVERS\nvlddmkm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=nvraid
+CreationClassName=Win32_SystemDriver
+Description=nvraid
+DisplayName=nvraid
+ErrorControl=Normal
+Name=nvraid
+PathName=C:\Windows\system32\drivers\nvraid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=nvstor
+CreationClassName=Win32_SystemDriver
+Description=nvstor
+DisplayName=nvstor
+ErrorControl=Critical
+Name=nvstor
+PathName=C:\Windows\system32\drivers\nvstor.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NVIDIA KMS
+CreationClassName=Win32_SystemDriver
+Description=NVIDIA KMS
+DisplayName=NVIDIA KMS
+ErrorControl=Normal
+Name=NvStreamKms
+PathName=\??\C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamKms.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+CreationClassName=Win32_SystemDriver
+Description=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+DisplayName=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+ErrorControl=Normal
+Name=nvvad_WaveExtensible
+PathName=C:\Windows\system32\drivers\nvvad64v.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NVVHCI Enumerator Service
+CreationClassName=Win32_SystemDriver
+Description=NVVHCI Enumerator Service
+DisplayName=NVVHCI Enumerator Service
+ErrorControl=Normal
+Name=nvvhci
+PathName=C:\Windows\system32\DRIVERS\nvvhci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NVIDIA nForce AGP Bus Filter
+CreationClassName=Win32_SystemDriver
+Description=NVIDIA nForce AGP Bus Filter
+DisplayName=NVIDIA nForce AGP Bus Filter
+ErrorControl=Normal
+Name=nv_agp
+PathName=C:\Windows\system32\drivers\nv_agp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=1394 OHCI Compliant Host Controller (Legacy)
+CreationClassName=Win32_SystemDriver
+Description=1394 OHCI Compliant Host Controller (Legacy)
+DisplayName=1394 OHCI Compliant Host Controller (Legacy)
+ErrorControl=Normal
+Name=ohci1394
+PathName=C:\Windows\system32\drivers\ohci1394.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Parallel port driver
+CreationClassName=Win32_SystemDriver
+Description=Parallel port driver
+DisplayName=Parallel port driver
+ErrorControl=Ignore
+Name=Parport
+PathName=C:\Windows\system32\drivers\parport.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Partition Manager
+CreationClassName=Win32_SystemDriver
+Description=Partition Manager
+DisplayName=Partition Manager
+ErrorControl=Critical
+Name=partmgr
+PathName=C:\Windows\system32\drivers\partmgr.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=PCI Bus Driver
+CreationClassName=Win32_SystemDriver
+Description=PCI Bus Driver
+DisplayName=PCI Bus Driver
+ErrorControl=Critical
+Name=pci
+PathName=C:\Windows\system32\drivers\pci.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=pciide
+CreationClassName=Win32_SystemDriver
+Description=pciide
+DisplayName=pciide
+ErrorControl=Critical
+Name=pciide
+PathName=C:\Windows\system32\drivers\pciide.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=pcmcia
+CreationClassName=Win32_SystemDriver
+Description=pcmcia
+DisplayName=pcmcia
+ErrorControl=Normal
+Name=pcmcia
+PathName=C:\Windows\system32\drivers\pcmcia.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Performance Counters for Windows Driver
+CreationClassName=Win32_SystemDriver
+Description=Performance Counters for Windows Driver
+DisplayName=Performance Counters for Windows Driver
+ErrorControl=Normal
+Name=pcw
+PathName=C:\Windows\system32\drivers\pcw.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=PEAUTH
+CreationClassName=Win32_SystemDriver
+Description=PEAUTH
+DisplayName=PEAUTH
+ErrorControl=Normal
+Name=PEAUTH
+PathName=C:\Windows\system32\drivers\peauth.sys
+ServiceType=Kernel Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WAN Miniport (PPTP)
+CreationClassName=Win32_SystemDriver
+Description=WAN Miniport (PPTP)
+DisplayName=WAN Miniport (PPTP)
+ErrorControl=Normal
+Name=PptpMiniport
+PathName=C:\Windows\system32\DRIVERS\raspptp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Processor Driver
+CreationClassName=Win32_SystemDriver
+Description=Processor Driver
+DisplayName=Processor Driver
+ErrorControl=Normal
+Name=Processor
+PathName=C:\Windows\system32\drivers\processr.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=QoS Packet Scheduler
+CreationClassName=Win32_SystemDriver
+Description=QoS Packet Scheduler
+DisplayName=QoS Packet Scheduler
+ErrorControl=Normal
+Name=Psched
+PathName=C:\Windows\system32\DRIVERS\pacer.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=ql2300
+CreationClassName=Win32_SystemDriver
+Description=ql2300
+DisplayName=ql2300
+ErrorControl=Normal
+Name=ql2300
+PathName=C:\Windows\system32\drivers\ql2300.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=ql40xx
+CreationClassName=Win32_SystemDriver
+Description=ql40xx
+DisplayName=ql40xx
+ErrorControl=Normal
+Name=ql40xx
+PathName=C:\Windows\system32\drivers\ql40xx.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=QWAVE driver
+CreationClassName=Win32_SystemDriver
+Description=QWAVE driver
+DisplayName=QWAVE driver
+ErrorControl=Normal
+Name=QWAVEdrv
+PathName=C:\Windows\system32\drivers\qwavedrv.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Access Auto Connection Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Access Auto Connection Driver
+DisplayName=Remote Access Auto Connection Driver
+ErrorControl=Normal
+Name=RasAcd
+PathName=C:\Windows\system32\DRIVERS\rasacd.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WAN Miniport (IKEv2)
+CreationClassName=Win32_SystemDriver
+Description=WAN Miniport (IKEv2)
+DisplayName=WAN Miniport (IKEv2)
+ErrorControl=Normal
+Name=RasAgileVpn
+PathName=C:\Windows\system32\DRIVERS\AgileVpn.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WAN Miniport (L2TP)
+CreationClassName=Win32_SystemDriver
+Description=WAN Miniport (L2TP)
+DisplayName=WAN Miniport (L2TP)
+ErrorControl=Normal
+Name=Rasl2tp
+PathName=C:\Windows\system32\DRIVERS\rasl2tp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Access PPPOE Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Access PPPOE Driver
+DisplayName=Remote Access PPPOE Driver
+ErrorControl=Normal
+Name=RasPppoe
+PathName=C:\Windows\system32\DRIVERS\raspppoe.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WAN Miniport (SSTP)
+CreationClassName=Win32_SystemDriver
+Description=WAN Miniport (SSTP)
+DisplayName=WAN Miniport (SSTP)
+ErrorControl=Normal
+Name=RasSstp
+PathName=C:\Windows\system32\DRIVERS\rassstp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Redirected Buffering Sub Sysytem
+CreationClassName=Win32_SystemDriver
+Description=Redirected Buffering Sub Sysytem
+DisplayName=Redirected Buffering Sub Sysytem
+ErrorControl=Normal
+Name=rdbss
+PathName=C:\Windows\system32\DRIVERS\rdbss.sys
+ServiceType=File System Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Desktop Device Redirector Bus Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Desktop Device Redirector Bus Driver
+DisplayName=Remote Desktop Device Redirector Bus Driver
+ErrorControl=Normal
+Name=rdpbus
+PathName=C:\Windows\system32\DRIVERS\rdpbus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=RDPCDD
+CreationClassName=Win32_SystemDriver
+Description=RDPCDD
+DisplayName=RDPCDD
+ErrorControl=Ignore
+Name=RDPCDD
+PathName=C:\Windows\system32\DRIVERS\RDPCDD.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Terminal Server Device Redirector Driver
+CreationClassName=Win32_SystemDriver
+Description=Terminal Server Device Redirector Driver
+DisplayName=Terminal Server Device Redirector Driver
+ErrorControl=Normal
+Name=RDPDR
+PathName=C:\Windows\system32\drivers\rdpdr.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=RDP Encoder Mirror Driver
+CreationClassName=Win32_SystemDriver
+Description=RDP Encoder Mirror Driver
+DisplayName=RDP Encoder Mirror Driver
+ErrorControl=Ignore
+Name=RDPENCDD
+PathName=C:\Windows\system32\drivers\rdpencdd.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Reflector Display Driver used to gain access to graphics data
+CreationClassName=Win32_SystemDriver
+Description=Reflector Display Driver used to gain access to graphics data
+DisplayName=Reflector Display Driver used to gain access to graphics data
+ErrorControl=Ignore
+Name=RDPREFMP
+PathName=C:\Windows\system32\drivers\rdprefmp.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Desktop Video Miniport Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Desktop Video Miniport Driver
+DisplayName=Remote Desktop Video Miniport Driver
+ErrorControl=Normal
+Name=RdpVideoMiniport
+PathName=C:\Windows\system32\drivers\rdpvideominiport.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=RDP Winstation Driver
+CreationClassName=Win32_SystemDriver
+Description=RDP Winstation Driver
+DisplayName=RDP Winstation Driver
+ErrorControl=Ignore
+Name=RDPWD
+PathName=C:\Windows\system32\drivers\RDPWD.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=ReadyBoost
+CreationClassName=Win32_SystemDriver
+Description=ReadyBoost
+DisplayName=ReadyBoost
+ErrorControl=Critical
+Name=rdyboost
+PathName=C:\Windows\system32\drivers\rdyboost.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Link-Layer Topology Discovery Responder
+CreationClassName=Win32_SystemDriver
+Description=Link-Layer Topology Discovery Responder
+DisplayName=Link-Layer Topology Discovery Responder
+ErrorControl=Normal
+Name=rspndr
+PathName=C:\Windows\system32\DRIVERS\rspndr.sys
+ServiceType=Kernel Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=s3cap
+CreationClassName=Win32_SystemDriver
+Description=s3cap
+DisplayName=s3cap
+ErrorControl=Normal
+Name=s3cap
+PathName=C:\Windows\system32\drivers\vms3cap.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=sbp2port
+CreationClassName=Win32_SystemDriver
+Description=sbp2port
+DisplayName=sbp2port
+ErrorControl=Normal
+Name=sbp2port
+PathName=C:\Windows\system32\drivers\sbp2port.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SCDEmu
+CreationClassName=Win32_SystemDriver
+Description=SCDEmu
+DisplayName=SCDEmu
+ErrorControl=Normal
+Name=SCDEmu
+PathName=C:\Windows\system32\drivers\SCDEmu.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Smart card PnP Class Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Smart card PnP Class Filter Driver
+DisplayName=Smart card PnP Class Filter Driver
+ErrorControl=Normal
+Name=scfilter
+PathName=C:\Windows\system32\DRIVERS\scfilter.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Security Driver
+CreationClassName=Win32_SystemDriver
+Description=Security Driver
+DisplayName=Security Driver
+ErrorControl=Normal
+Name=secdrv
+PathName=C:\Windows\system32\drivers\secdrv.sys
+ServiceType=Kernel Driver
+StartMode=Disabled
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Serenum Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Serenum Filter Driver
+DisplayName=Serenum Filter Driver
+ErrorControl=Normal
+Name=Serenum
+PathName=C:\Windows\system32\drivers\serenum.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Serial
+CreationClassName=Win32_SystemDriver
+Description=Serial
+DisplayName=Serial
+ErrorControl=Ignore
+Name=Serial
+PathName=C:\Windows\system32\drivers\serial.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Serial Mouse Driver
+CreationClassName=Win32_SystemDriver
+Description=Serial Mouse Driver
+DisplayName=Serial Mouse Driver
+ErrorControl=Normal
+Name=sermouse
+PathName=C:\Windows\system32\drivers\sermouse.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SFF Storage Class Driver
+CreationClassName=Win32_SystemDriver
+Description=SFF Storage Class Driver
+DisplayName=SFF Storage Class Driver
+ErrorControl=Normal
+Name=sffdisk
+PathName=C:\Windows\system32\drivers\sffdisk.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SFF Storage Protocol Driver for MMC
+CreationClassName=Win32_SystemDriver
+Description=SFF Storage Protocol Driver for MMC
+DisplayName=SFF Storage Protocol Driver for MMC
+ErrorControl=Normal
+Name=sffp_mmc
+PathName=C:\Windows\system32\drivers\sffp_mmc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SFF Storage Protocol Driver for SDBus
+CreationClassName=Win32_SystemDriver
+Description=SFF Storage Protocol Driver for SDBus
+DisplayName=SFF Storage Protocol Driver for SDBus
+ErrorControl=Normal
+Name=sffp_sd
+PathName=C:\Windows\system32\drivers\sffp_sd.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=High-Capacity Floppy Disk Drive
+CreationClassName=Win32_SystemDriver
+Description=High-Capacity Floppy Disk Drive
+DisplayName=High-Capacity Floppy Disk Drive
+ErrorControl=Normal
+Name=sfloppy
+PathName=C:\Windows\system32\drivers\sfloppy.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SiSRaid2
+CreationClassName=Win32_SystemDriver
+Description=SiSRaid2
+DisplayName=SiSRaid2
+ErrorControl=Normal
+Name=SiSRaid2
+PathName=C:\Windows\system32\drivers\SiSRaid2.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SiSRaid4
+CreationClassName=Win32_SystemDriver
+Description=SiSRaid4
+DisplayName=SiSRaid4
+ErrorControl=Normal
+Name=SiSRaid4
+PathName=C:\Windows\system32\drivers\sisraid4.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Message-oriented TCP/IP and TCP/IPv6 Protocol (SMB session)
+CreationClassName=Win32_SystemDriver
+Description=Message-oriented TCP/IP and TCP/IPv6 Protocol (SMB session)
+DisplayName=Message-oriented TCP/IP and TCP/IPv6 Protocol (SMB session)
+ErrorControl=Normal
+Name=Smb
+PathName=C:\Windows\system32\DRIVERS\smb.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Security Processor Loader Driver
+CreationClassName=Win32_SystemDriver
+Description=Security Processor Loader Driver
+DisplayName=Security Processor Loader Driver
+ErrorControl=Critical
+Name=spldr
+PathName=C:\Windows\system32\drivers\spldr.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Server SMB 1.xxx Driver
+CreationClassName=Win32_SystemDriver
+Description=Server SMB 1.xxx Driver
+DisplayName=Server SMB 1.xxx Driver
+ErrorControl=Normal
+Name=srv
+PathName=C:\Windows\system32\DRIVERS\srv.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Server SMB 2.xxx Driver
+CreationClassName=Win32_SystemDriver
+Description=Server SMB 2.xxx Driver
+DisplayName=Server SMB 2.xxx Driver
+ErrorControl=Normal
+Name=srv2
+PathName=C:\Windows\system32\DRIVERS\srv2.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=srvnet
+CreationClassName=Win32_SystemDriver
+Description=srvnet
+DisplayName=srvnet
+ErrorControl=Normal
+Name=srvnet
+PathName=C:\Windows\system32\DRIVERS\srvnet.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SAMSUNG  Mobile USB Modem Drivers (DEVGURU Ver.)
+CreationClassName=Win32_SystemDriver
+Description=SAMSUNG  Mobile USB Modem Drivers (DEVGURU Ver.)
+DisplayName=SAMSUNG  Mobile USB Modem Drivers (DEVGURU Ver.)
+ErrorControl=Normal
+Name=ssudmdm
+PathName=C:\Windows\system32\DRIVERS\ssudmdm.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=stexstor
+CreationClassName=Win32_SystemDriver
+Description=stexstor
+DisplayName=stexstor
+ErrorControl=Normal
+Name=stexstor
+PathName=C:\Windows\system32\drivers\stexstor.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Still Serial Digital Camera Driver
+CreationClassName=Win32_SystemDriver
+Description=Still Serial Digital Camera Driver
+DisplayName=Still Serial Digital Camera Driver
+ErrorControl=Normal
+Name=StillCam
+PathName=C:\Windows\system32\DRIVERS\serscan.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Disk Virtual Machine Bus Acceleration Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Disk Virtual Machine Bus Acceleration Filter Driver
+DisplayName=Disk Virtual Machine Bus Acceleration Filter Driver
+ErrorControl=Normal
+Name=storflt
+PathName=C:\Windows\system32\drivers\vmstorfl.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=storvsc
+CreationClassName=Win32_SystemDriver
+Description=storvsc
+DisplayName=storvsc
+ErrorControl=Normal
+Name=storvsc
+PathName=C:\Windows\system32\drivers\storvsc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Software Bus Driver
+CreationClassName=Win32_SystemDriver
+Description=Software Bus Driver
+DisplayName=Software Bus Driver
+ErrorControl=Normal
+Name=swenum
+PathName=C:\Windows\system32\DRIVERS\swenum.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Synth3dVsc
+CreationClassName=Win32_SystemDriver
+Description=Synth3dVsc
+DisplayName=Synth3dVsc
+ErrorControl=Normal
+Name=Synth3dVsc
+PathName=C:\Windows\system32\drivers\synth3dvsc.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=TAP-Windows Adapter V9
+CreationClassName=Win32_SystemDriver
+Description=TAP-Windows Adapter V9
+DisplayName=TAP-Windows Adapter V9
+ErrorControl=Normal
+Name=tap0901
+PathName=C:\Windows\system32\DRIVERS\tap0901.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=TCP/IP Protocol Driver
+CreationClassName=Win32_SystemDriver
+Description=TCP/IP Protocol Driver
+DisplayName=TCP/IP Protocol Driver
+ErrorControl=Normal
+Name=Tcpip
+PathName=C:\Windows\system32\drivers\tcpip.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft IPv6 Protocol Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft IPv6 Protocol Driver
+DisplayName=Microsoft IPv6 Protocol Driver
+ErrorControl=Normal
+Name=TCPIP6
+PathName=C:\Windows\system32\DRIVERS\tcpip.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=TCP/IP Registry Compatibility
+CreationClassName=Win32_SystemDriver
+Description=TCP/IP Registry Compatibility
+DisplayName=TCP/IP Registry Compatibility
+ErrorControl=Normal
+Name=tcpipreg
+PathName=C:\Windows\system32\drivers\tcpipreg.sys
+ServiceType=Kernel Driver
+StartMode=Auto
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=TDPIPE
+CreationClassName=Win32_SystemDriver
+Description=TDPIPE
+DisplayName=TDPIPE
+ErrorControl=Normal
+Name=TDPIPE
+PathName=C:\Windows\system32\drivers\tdpipe.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=TDTCP
+CreationClassName=Win32_SystemDriver
+Description=TDTCP
+DisplayName=TDTCP
+ErrorControl=Normal
+Name=TDTCP
+PathName=C:\Windows\system32\drivers\tdtcp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=NetIO Legacy TDI Support Driver
+CreationClassName=Win32_SystemDriver
+Description=NetIO Legacy TDI Support Driver
+DisplayName=NetIO Legacy TDI Support Driver
+ErrorControl=Normal
+Name=tdx
+PathName=C:\Windows\system32\DRIVERS\tdx.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Terminal Device Driver
+CreationClassName=Win32_SystemDriver
+Description=Terminal Device Driver
+DisplayName=Terminal Device Driver
+ErrorControl=Normal
+Name=TermDD
+PathName=C:\Windows\system32\DRIVERS\termdd.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Remote Desktop Input Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Remote Desktop Input Driver
+DisplayName=Microsoft Remote Desktop Input Driver
+ErrorControl=Normal
+Name=terminpt
+PathName=C:\Windows\system32\drivers\terminpt.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Desktop Services Security Filter Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Desktop Services Security Filter Driver
+DisplayName=Remote Desktop Services Security Filter Driver
+ErrorControl=Ignore
+Name=tssecsrv
+PathName=C:\Windows\system32\DRIVERS\tssecsrv.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=TsUsbFlt
+CreationClassName=Win32_SystemDriver
+Description=TsUsbFlt
+DisplayName=TsUsbFlt
+ErrorControl=Normal
+Name=TsUsbFlt
+PathName=C:\Windows\system32\drivers\tsusbflt.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Desktop Generic USB Device
+CreationClassName=Win32_SystemDriver
+Description=Remote Desktop Generic USB Device
+DisplayName=Remote Desktop Generic USB Device
+ErrorControl=Normal
+Name=TsUsbGD
+PathName=C:\Windows\system32\drivers\TsUsbGD.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=tsusbhub
+CreationClassName=Win32_SystemDriver
+Description=tsusbhub
+DisplayName=tsusbhub
+ErrorControl=Normal
+Name=tsusbhub
+PathName=C:\Windows\system32\drivers\tsusbhub.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Tunnel Miniport Adapter Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Tunnel Miniport Adapter Driver
+DisplayName=Microsoft Tunnel Miniport Adapter Driver
+ErrorControl=Normal
+Name=tunnel
+PathName=C:\Windows\system32\DRIVERS\tunnel.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft AGPv3.5 Filter
+CreationClassName=Win32_SystemDriver
+Description=Microsoft AGPv3.5 Filter
+DisplayName=Microsoft AGPv3.5 Filter
+ErrorControl=Normal
+Name=uagp35
+PathName=C:\Windows\system32\drivers\uagp35.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=udfs
+CreationClassName=Win32_SystemDriver
+Description=udfs
+DisplayName=udfs
+ErrorControl=Normal
+Name=udfs
+PathName=C:\Windows\system32\DRIVERS\udfs.sys
+ServiceType=File System Driver
+StartMode=Disabled
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Uli AGP Bus Filter
+CreationClassName=Win32_SystemDriver
+Description=Uli AGP Bus Filter
+DisplayName=Uli AGP Bus Filter
+ErrorControl=Normal
+Name=uliagpkx
+PathName=C:\Windows\system32\drivers\uliagpkx.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=UMBus Enumerator Driver
+CreationClassName=Win32_SystemDriver
+Description=UMBus Enumerator Driver
+DisplayName=UMBus Enumerator Driver
+ErrorControl=Normal
+Name=umbus
+PathName=C:\Windows\system32\DRIVERS\umbus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft UMPass Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft UMPass Driver
+DisplayName=Microsoft UMPass Driver
+ErrorControl=Normal
+Name=UmPass
+PathName=C:\Windows\system32\drivers\umpass.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=USB Audio Driver (WDM)
+CreationClassName=Win32_SystemDriver
+Description=USB Audio Driver (WDM)
+DisplayName=USB Audio Driver (WDM)
+ErrorControl=Normal
+Name=usbaudio
+PathName=C:\Windows\system32\drivers\usbaudio.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft USB Generic Parent Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft USB Generic Parent Driver
+DisplayName=Microsoft USB Generic Parent Driver
+ErrorControl=Normal
+Name=usbccgp
+PathName=C:\Windows\system32\DRIVERS\usbccgp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=eHome Infrared Receiver (USBCIR)
+CreationClassName=Win32_SystemDriver
+Description=eHome Infrared Receiver (USBCIR)
+DisplayName=eHome Infrared Receiver (USBCIR)
+ErrorControl=Normal
+Name=usbcir
+PathName=C:\Windows\system32\drivers\usbcir.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft USB 2.0 Enhanced Host Controller Miniport Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft USB 2.0 Enhanced Host Controller Miniport Driver
+DisplayName=Microsoft USB 2.0 Enhanced Host Controller Miniport Driver
+ErrorControl=Normal
+Name=usbehci
+PathName=C:\Windows\system32\drivers\usbehci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft USB Standard Hub Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft USB Standard Hub Driver
+DisplayName=Microsoft USB Standard Hub Driver
+ErrorControl=Normal
+Name=usbhub
+PathName=C:\Windows\system32\drivers\usbhub.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft USB Open Host Controller Miniport Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft USB Open Host Controller Miniport Driver
+DisplayName=Microsoft USB Open Host Controller Miniport Driver
+ErrorControl=Normal
+Name=usbohci
+PathName=C:\Windows\system32\drivers\usbohci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft USB PRINTER Class
+CreationClassName=Win32_SystemDriver
+Description=Microsoft USB PRINTER Class
+DisplayName=Microsoft USB PRINTER Class
+ErrorControl=Normal
+Name=usbprint
+PathName=C:\Windows\system32\DRIVERS\usbprint.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=USB Scanner Driver
+CreationClassName=Win32_SystemDriver
+Description=USB Scanner Driver
+DisplayName=USB Scanner Driver
+ErrorControl=Normal
+Name=usbscan
+PathName=C:\Windows\system32\DRIVERS\usbscan.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=USB to Serial Driver
+CreationClassName=Win32_SystemDriver
+Description=USB to Serial Driver
+DisplayName=USB to Serial Driver
+ErrorControl=Ignore
+Name=usbser
+PathName=C:\Windows\system32\DRIVERS\usbser.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=USB Mass Storage Driver
+CreationClassName=Win32_SystemDriver
+Description=USB Mass Storage Driver
+DisplayName=USB Mass Storage Driver
+ErrorControl=Normal
+Name=USBSTOR
+PathName=C:\Windows\system32\DRIVERS\USBSTOR.SYS
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft USB Universal Host Controller Miniport Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft USB Universal Host Controller Miniport Driver
+DisplayName=Microsoft USB Universal Host Controller Miniport Driver
+ErrorControl=Normal
+Name=usbuhci
+PathName=C:\Windows\system32\drivers\usbuhci.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=USB Video Device (WDM)
+CreationClassName=Win32_SystemDriver
+Description=USB Video Device (WDM)
+DisplayName=USB Video Device (WDM)
+ErrorControl=Normal
+Name=usbvideo
+PathName=C:\Windows\system32\Drivers\usbvideo.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=VirtualBox Service
+CreationClassName=Win32_SystemDriver
+Description=VirtualBox Service
+DisplayName=VirtualBox Service
+ErrorControl=Normal
+Name=VBoxDrv
+PathName=C:\Windows\system32\DRIVERS\VBoxDrv.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=VirtualBox NDIS 6.0 Miniport Service
+CreationClassName=Win32_SystemDriver
+Description=VirtualBox NDIS 6.0 Miniport Service
+DisplayName=VirtualBox NDIS 6.0 Miniport Service
+ErrorControl=Normal
+Name=VBoxNetAdp
+PathName=C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=VirtualBox NDIS6 Bridged Networking Service
+CreationClassName=Win32_SystemDriver
+Description=VirtualBox NDIS6 Bridged Networking Service
+DisplayName=VirtualBox NDIS6 Bridged Networking Service
+ErrorControl=Normal
+Name=VBoxNetLwf
+PathName=C:\Windows\system32\DRIVERS\VBoxNetLwf.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=VirtualBox USB Monitor Driver
+CreationClassName=Win32_SystemDriver
+Description=VirtualBox USB Monitor Driver
+DisplayName=VirtualBox USB Monitor Driver
+ErrorControl=Normal
+Name=VBoxUSBMon
+PathName=C:\Windows\system32\DRIVERS\VBoxUSBMon.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Virtual Drive Enumerator Driver
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Virtual Drive Enumerator Driver
+DisplayName=Microsoft Virtual Drive Enumerator Driver
+ErrorControl=Critical
+Name=vdrvroot
+PathName=C:\Windows\system32\drivers\vdrvroot.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=vga
+CreationClassName=Win32_SystemDriver
+Description=vga
+DisplayName=vga
+ErrorControl=Ignore
+Name=vga
+PathName=C:\Windows\system32\DRIVERS\vgapnp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=VgaSave
+CreationClassName=Win32_SystemDriver
+Description=VgaSave
+DisplayName=VgaSave
+ErrorControl=Ignore
+Name=VgaSave
+PathName=C:\Windows\system32\drivers\vga.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=vhdmp
+CreationClassName=Win32_SystemDriver
+Description=vhdmp
+DisplayName=vhdmp
+ErrorControl=Normal
+Name=vhdmp
+PathName=C:\Windows\system32\drivers\vhdmp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=viaide
+CreationClassName=Win32_SystemDriver
+Description=viaide
+DisplayName=viaide
+ErrorControl=Critical
+Name=viaide
+PathName=C:\Windows\system32\drivers\viaide.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=vmbus
+CreationClassName=Win32_SystemDriver
+Description=vmbus
+DisplayName=vmbus
+ErrorControl=Normal
+Name=vmbus
+PathName=C:\Windows\system32\drivers\vmbus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=VMBusHID
+CreationClassName=Win32_SystemDriver
+Description=VMBusHID
+DisplayName=VMBusHID
+ErrorControl=Ignore
+Name=VMBusHID
+PathName=C:\Windows\system32\drivers\VMBusHID.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Volume Manager Driver
+CreationClassName=Win32_SystemDriver
+Description=Volume Manager Driver
+DisplayName=Volume Manager Driver
+ErrorControl=Critical
+Name=volmgr
+PathName=C:\Windows\system32\drivers\volmgr.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Dynamic Volume Manager
+CreationClassName=Win32_SystemDriver
+Description=Dynamic Volume Manager
+DisplayName=Dynamic Volume Manager
+ErrorControl=Critical
+Name=volmgrx
+PathName=C:\Windows\system32\drivers\volmgrx.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Storage volumes
+CreationClassName=Win32_SystemDriver
+Description=Storage volumes
+DisplayName=Storage volumes
+ErrorControl=Critical
+Name=volsnap
+PathName=C:\Windows\system32\drivers\volsnap.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=vsmraid
+CreationClassName=Win32_SystemDriver
+Description=vsmraid
+DisplayName=vsmraid
+ErrorControl=Normal
+Name=vsmraid
+PathName=C:\Windows\system32\drivers\vsmraid.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Virtual WiFi Bus Driver
+CreationClassName=Win32_SystemDriver
+Description=Virtual WiFi Bus Driver
+DisplayName=Virtual WiFi Bus Driver
+ErrorControl=Ignore
+Name=vwifibus
+PathName=C:\Windows\system32\drivers\vwifibus.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Wacom Serial Pen HID Driver
+CreationClassName=Win32_SystemDriver
+Description=Wacom Serial Pen HID Driver
+DisplayName=Wacom Serial Pen HID Driver
+ErrorControl=Normal
+Name=WacomPen
+PathName=C:\Windows\system32\drivers\wacompen.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Access IP ARP Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Access IP ARP Driver
+DisplayName=Remote Access IP ARP Driver
+ErrorControl=Normal
+Name=WANARP
+PathName=C:\Windows\system32\DRIVERS\wanarp.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Remote Access IPv6 ARP Driver
+CreationClassName=Win32_SystemDriver
+Description=Remote Access IPv6 ARP Driver
+DisplayName=Remote Access IPv6 ARP Driver
+ErrorControl=Normal
+Name=Wanarpv6
+PathName=C:\Windows\system32\DRIVERS\wanarp.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Wd
+CreationClassName=Win32_SystemDriver
+Description=Wd
+DisplayName=Wd
+ErrorControl=Normal
+Name=Wd
+PathName=C:\Windows\system32\drivers\wd.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WD SCSI Pass Thru driver
+CreationClassName=Win32_SystemDriver
+Description=WD SCSI Pass Thru driver
+DisplayName=WD SCSI Pass Thru driver
+ErrorControl=Normal
+Name=WDC_SAM
+PathName=C:\Windows\system32\DRIVERS\wdcsam64.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Kernel Mode Driver Frameworks service
+CreationClassName=Win32_SystemDriver
+Description=Kernel Mode Driver Frameworks service
+DisplayName=Kernel Mode Driver Frameworks service
+ErrorControl=Normal
+Name=Wdf01000
+PathName=C:\Windows\system32\drivers\Wdf01000.sys
+ServiceType=Kernel Driver
+StartMode=Boot
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WFP Lightweight Filter
+CreationClassName=Win32_SystemDriver
+Description=WFP Lightweight Filter
+DisplayName=WFP Lightweight Filter
+ErrorControl=Normal
+Name=WfpLwf
+PathName=C:\Windows\system32\DRIVERS\wfplwf.sys
+ServiceType=Kernel Driver
+StartMode=System
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WIMMount
+CreationClassName=Win32_SystemDriver
+Description=WIMMount
+DisplayName=WIMMount
+ErrorControl=Normal
+Name=WIMMount
+PathName=C:\Windows\system32\drivers\wimmount.sys
+ServiceType=File System Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=SAMSUNG Android USB Driver
+CreationClassName=Win32_SystemDriver
+Description=SAMSUNG Android USB Driver
+DisplayName=SAMSUNG Android USB Driver
+ErrorControl=Normal
+Name=WinUsb
+PathName=C:\Windows\system32\DRIVERS\WinUsb.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Microsoft Windows Management Interface for ACPI
+CreationClassName=Win32_SystemDriver
+Description=Microsoft Windows Management Interface for ACPI
+DisplayName=Microsoft Windows Management Interface for ACPI
+ErrorControl=Normal
+Name=WmiAcpi
+PathName=C:\Windows\system32\DRIVERS\wmiacpi.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=Winsock IFS Driver
+CreationClassName=Win32_SystemDriver
+Description=Winsock IFS Driver
+DisplayName=Winsock IFS Driver
+ErrorControl=Normal
+Name=ws2ifsl
+PathName=C:\Windows\system32\drivers\ws2ifsl.sys
+ServiceType=Kernel Driver
+StartMode=Disabled
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=User Mode Driver Frameworks Platform Driver
+CreationClassName=Win32_SystemDriver
+Description=User Mode Driver Frameworks Platform Driver
+DisplayName=User Mode Driver Frameworks Platform Driver
+ErrorControl=Normal
+Name=WudfPf
+PathName=C:\Windows\system32\drivers\WudfPf.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Running
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+Caption=WUDFRd
+CreationClassName=Win32_SystemDriver
+Description=WUDFRd
+DisplayName=WUDFRd
+ErrorControl=Normal
+Name=WUDFRd
+PathName=C:\Windows\system32\DRIVERS\WUDFRd.sys
+ServiceType=Kernel Driver
+StartMode=Manual
+State=Stopped
+Status=OK
+SystemCreationClassName=Win32_ComputerSystem
+SystemName=GILGAMESH
+
+
+====SystemProcessesInfo====
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="0"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="500"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="740"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="836"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="844"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="892"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="908"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="916"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="984"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="320"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="764"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="828"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1108"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1116"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1172"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1216"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1248"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1308"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1428"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1480"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1628"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1700"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1916"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1980"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1744"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1952"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2060"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2408"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2520"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2552"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3444"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3520"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3548"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3636"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3968"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3768"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3252"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3376"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2916"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2844"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2472"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4188"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4568"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4656"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="1080"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4324"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4816"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5144"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5160"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5300"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5368"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5584"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5948"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5168"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4468"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5436"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5656"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="6252"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="2492"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3684"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="6768"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="9140"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="11040"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="11252"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4376"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="6392"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="10880"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="10840"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3708"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="8784"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13068"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="7352"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="8928"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="7456"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="15332"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="10524"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="8204"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="6668"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="10932"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="17064"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="14144"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4988"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13332"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13824"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4632"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="11688"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="15604"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="3368"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13904"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="5992"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13284"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="7784"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="9600"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="16396"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="14408"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4756"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13428"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="4972"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="17284"
+
+GroupComponent=\\GILGAMESH\root\cimv2:Win32_ComputerSystem.Name="GILGAMESH"
+PartComponent=\\GILGAMESH\root\cimv2:Win32_Process.Handle="13244"
+
+

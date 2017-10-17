@@ -1,0 +1,17 @@
+
+Win32_ComputerSystem	https://msdn.microsoft.com/en-us/library/aa394102(v=vs.85).aspx
+Win32_Desktop	https://msdn.microsoft.com/en-us/library/aa394121(v=vs.85).aspx
+Win32_Directory	https://msdn.microsoft.com/en-us/library/aa394130(v=vs.85).aspx
+Win32_Environment	https://msdn.microsoft.com/en-us/library/aa394143(v=vs.85).aspx
+Win32_LoggedOnUser	https://msdn.microsoft.com/en-us/library/aa394172(v=vs.85).aspx
+Win32_LogonSession	https://msdn.microsoft.com/en-us/library/aa394189(v=vs.85).aspx
+Win32_Process	https://msdn.microsoft.com/en-us/library/aa394372(v=vs.85).aspx
+Win32_PageFile	https://msdn.microsoft.com/en-us/library/aa394243(v=vs.85).aspx
+Win32_Registry	https://msdn.microsoft.com/en-us/library/aa394394(v=vs.85).aspx
+Win32_Session	https://msdn.microsoft.com/en-us/library/aa394422(v=vs.85).aspx
+Win32_SystemAccount	https://msdn.microsoft.com/en-us/library/aa394466(v=vs.85).aspx
+Win32_SystemBIOS	https://msdn.microsoft.com/en-us/library/aa394467(v=vs.85).aspx
+Win32_SystemBootConfiguration	https://msdn.microsoft.com/en-us/library/aa394468(v=vs.85).aspx
+Win32_SystemUsers	https://msdn.microsoft.com/en-us/library/aa394490(v=vs.85).aspx
+Win32_UserAccount	https://msdn.microsoft.com/en-us/library/aa394507(v=vs.85).aspx
+Win32_VideoConfiguration	https://msdn.microsoft.com/en-us/library/mt300880(v=vs.85).aspx
