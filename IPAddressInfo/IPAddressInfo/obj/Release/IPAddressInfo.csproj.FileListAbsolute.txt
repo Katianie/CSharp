@@ -1,0 +1,9 @@
+E:\IPAddressInfo\IPAddressInfo\bin\Release\IPAddressInfo.exe.config
+E:\IPAddressInfo\IPAddressInfo\bin\Release\IPAddressInfo.exe
+E:\IPAddressInfo\IPAddressInfo\bin\Release\IPAddressInfo.pdb
+E:\IPAddressInfo\IPAddressInfo\bin\Release\Newtonsoft.Json.dll
+E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.Form1.resources
+E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.Properties.Resources.resources
+E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.csproj.GenerateResource.Cache
+E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.exe
+E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.pdb

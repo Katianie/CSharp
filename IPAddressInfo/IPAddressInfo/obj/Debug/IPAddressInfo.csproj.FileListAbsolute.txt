@@ -1,0 +1,13 @@
+E:\IPAddressInfo\IPAddressInfo\bin\Debug\IPAddressInfo.exe.config
+E:\IPAddressInfo\IPAddressInfo\bin\Debug\IPAddressInfo.exe
+E:\IPAddressInfo\IPAddressInfo\bin\Debug\IPAddressInfo.pdb
+E:\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.csprojResolveAssemblyReference.cache
+E:\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.Form1.resources
+E:\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.Properties.Resources.resources
+E:\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.csproj.GenerateResource.Cache
+E:\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.exe
+E:\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.pdb
+E:\IPAddressInfo\IPAddressInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eddie\Desktop\IPAddressInfo\IPAddressInfo\bin\Debug\IPAddressInfo.exe.config
+C:\Users\Eddie\Desktop\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.exe
+C:\Users\Eddie\Desktop\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.pdb
