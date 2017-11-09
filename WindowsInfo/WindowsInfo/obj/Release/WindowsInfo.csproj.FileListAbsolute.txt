@@ -6,15 +6,6 @@ C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.Pr
 C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csproj.GenerateResource.Cache
 C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.exe
 C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.pdb
-E:\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe.config
-E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.exe
-E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.pdb
-E:\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe
-E:\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.pdb
-E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csprojResolveAssemblyReference.cache
-E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.frmMain.resources
-E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.Properties.Resources.resources
-E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csproj.GenerateResource.Cache
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe.config
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.exe
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.pdb
@@ -24,3 +15,11 @@ C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Release\Win
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.frmMain.resources
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.Properties.Resources.resources
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csproj.GenerateResource.Cache
+E:\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe.config
+E:\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe
+E:\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.pdb
+E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.frmMain.resources
+E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.Properties.Resources.resources
+E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csproj.GenerateResource.Cache
+E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.exe
+E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.pdb

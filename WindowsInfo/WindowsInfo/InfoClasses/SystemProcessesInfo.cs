@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Management;
@@ -11,21 +12,25 @@ namespace WindowsInfo
     {
         public SystemProcessesInfo() : base()
         {
-            this.LoadData();
+
         }
 
         public override void LoadData()
         {
+            IEnumerator collectionEnumerator;
             Dictionary<string, string> currDictionary;
-            ManagementObjectSearcher searcher = new ManagementObjectSearcher("SELECT * FROM Win32_SystemProcesses");
-            ManagementObjectCollection collection = searcher.Get();
 
-            foreach (ManagementObject queryObject in collection)
+            myWMISearcher = new ManagementObjectSearcher("SELECT * FROM Win32_SystemProcesses");
+            myWMICollection = myWMISearcher.Get();
+            collectionEnumerator = myWMICollection.GetEnumerator();
+
+            while (collectionEnumerator.MoveNext())
             {
+                myWMIQueryObject = (ManagementObject)collectionEnumerator.Current;
                 currDictionary = new Dictionary<string, string>();
 
-                currDictionary["GroupComponent"] = Utils.Query("GroupComponent", queryObject);
-                currDictionary["PartComponent"]  = Utils.Query("PartComponent", queryObject);
+                currDictionary["GroupComponent"] = Utils.Query("GroupComponent", myWMIQueryObject);
+                currDictionary["PartComponent"]  = Utils.Query("PartComponent", myWMIQueryObject);
 
                 myData.Add(currDictionary);
             }

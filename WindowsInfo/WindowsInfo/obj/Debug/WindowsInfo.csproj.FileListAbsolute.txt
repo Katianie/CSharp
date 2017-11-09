@@ -7,15 +7,6 @@ C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.cspr
 C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.exe
 C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.pdb
 C:\Users\eddie.ohagan\Desktop\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.frmMain.resources
-E:\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.exe.config
-E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.exe
-E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.pdb
-E:\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.exe
-E:\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.pdb
-E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.csprojResolveAssemblyReference.cache
-E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.frmMain.resources
-E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.Properties.Resources.resources
-E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.csproj.GenerateResource.Cache
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.exe.config
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.exe
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.pdb
@@ -25,3 +16,11 @@ C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Debug\Windo
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.frmMain.resources
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.Properties.Resources.resources
 C:\Users\Eddie\Desktop\KatianieWorkspace\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.csproj.GenerateResource.Cache
+E:\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.exe.config
+E:\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.exe
+E:\WindowsInfo\WindowsInfo\bin\Debug\WindowsInfo.pdb
+E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.frmMain.resources
+E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.Properties.Resources.resources
+E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.csproj.GenerateResource.Cache
+E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.exe
+E:\WindowsInfo\WindowsInfo\obj\Debug\WindowsInfo.pdb

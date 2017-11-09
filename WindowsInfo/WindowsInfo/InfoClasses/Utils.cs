@@ -9,17 +9,17 @@ namespace WindowsInfo
 {
     public class Utils
     {
-        public static string Query(string propertyName, ManagementObject queryObject)
+        public static string Query(string propertyName, ManagementObject myWMIQueryObject)
         {
             string[] retVals;
             string retVal = null;
             object data = null;
 
-            if (queryObject != null)
+            if (myWMIQueryObject != null)
             {
                 try
                 {
-                    data = queryObject[propertyName];
+                    data = myWMIQueryObject[propertyName];
                 }
                 catch (Exception ex)
                 {

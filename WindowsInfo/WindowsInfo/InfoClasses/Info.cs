@@ -1,30 +1,42 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Management;
 using System.Text;
 
 namespace WindowsInfo
 {
     public abstract class Info
     {
+        protected ManagementObject myWMIQueryObject;
+        protected ManagementObjectSearcher myWMISearcher;
+        protected ManagementObjectCollection myWMICollection;
         protected List<Dictionary<string, string>> myData;
 
+        ///Constructor
         public Info()
         {
+            myWMIQueryObject = null;
+            myWMISearcher = null;
+            myWMICollection = null;
             myData = new List<Dictionary<string, string>>();
         }
 
+        ///Functions that MUST be implemented by children.
         public abstract void LoadData();
 
+        ///Functions that MAY be implemented by children.
         public override string ToString()
         {
             string currOutput;
-            StringBuilder finishedOutput = new StringBuilder();
+            StringBuilder finishedOutput;
 
-            try
+            if (myData.Count > 0)
             {
+                finishedOutput = new StringBuilder();
+
                 //Print the derived class name so we know where the data came from.
-                currOutput = string.Format("===={0}====", this.GetType().Name);
+                currOutput = string.Format("========{0}========", this.GetType().Name);
                 finishedOutput.AppendLine(currOutput);
                 foreach (Dictionary<string, string> currDictionary in myData)
                 {
@@ -38,13 +50,35 @@ namespace WindowsInfo
 
                     finishedOutput.AppendLine();
                 }
-            }
-            catch (Exception ex)
-            {
-                Console.Error.WriteLine("Error:{0}", ex.Message);
+
+                return finishedOutput.ToString();
             }
 
-            return finishedOutput.ToString();
+            return null;
+        }
+
+        ///Functions
+        public void Dispose()
+        {
+            if(myData != null)
+            {
+                myData.Clear();
+            }
+
+            if(myWMICollection != null)
+            {
+                myWMICollection.Dispose();
+            }
+
+            if (myWMIQueryObject != null)
+            {
+                myWMIQueryObject.Dispose();
+            }
+
+            if (myWMISearcher != null)
+            {
+                myWMISearcher.Dispose();
+            }
         }
     }
 }

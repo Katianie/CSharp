@@ -47,24 +47,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountInfo.cs" />
-    <Compile Include="BootConfigurationInfo.cs" />
-    <Compile Include="CodecFileInfo.cs" />
-    <Compile Include="ComputerSystemInfo.cs" />
-    <Compile Include="DesktopInfo.cs" />
-    <Compile Include="DirectoryInfo.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Info.cs" />
-    <Compile Include="OperatingSystemInfo.cs" />
+    <Compile Include="InfoClasses\AccountInfo.cs" />
+    <Compile Include="InfoClasses\BIOSInfo.cs" />
+    <Compile Include="InfoClasses\BootConfigurationInfo.cs" />
+    <Compile Include="InfoClasses\CodecFileInfo.cs" />
+    <Compile Include="InfoClasses\ComputerSystemInfo.cs" />
+    <Compile Include="InfoClasses\ComputerSystemProcessorInfo.cs" />
+    <Compile Include="InfoClasses\DesktopInfo.cs" />
+    <Compile Include="InfoClasses\DesktopMonitorInfo.cs" />
+    <Compile Include="InfoClasses\DirectoryInfo.cs" />
+    <Compile Include="InfoClasses\DiskPartitionInfo.cs" />
+    <Compile Include="InfoClasses\EnvironmentInfo.cs" />
+    <Compile Include="InfoClasses\Info.cs" />
+    <Compile Include="InfoClasses\LoggedOnUserInfo.cs" />
+    <Compile Include="InfoClasses\LogonSessionInfo.cs" />
+    <Compile Include="InfoClasses\OperatingSystemInfo.cs" />
+    <Compile Include="InfoClasses\PageFileInfo.cs" />
+    <Compile Include="InfoClasses\PageFileSettingInfo.cs" />
+    <Compile Include="InfoClasses\PageFileUsageInfo.cs" />
+    <Compile Include="InfoClasses\ProcessesInfo.cs" />
+    <Compile Include="InfoClasses\RegistryInfo.cs" />
+    <Compile Include="InfoClasses\SessionInfo.cs" />
+    <Compile Include="InfoClasses\SystemAccountInfo.cs" />
+    <Compile Include="InfoClasses\SystemBIOSInfo.cs" />
+    <Compile Include="InfoClasses\SystemBootConfigurationInfo.cs" />
+    <Compile Include="InfoClasses\SystemDriverInfo.cs" />
+    <Compile Include="InfoClasses\SystemProcessesInfo.cs" />
+    <Compile Include="InfoClasses\SystemUsersInfo.cs" />
+    <Compile Include="InfoClasses\UserAccountInfo.cs" />
+    <Compile Include="InfoClasses\VideoConfigurationInfo.cs" />
+    <Compile Include="InfoClasses\VideoControllerInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SystemDriverInfo.cs" />
-    <Compile Include="SystemProcessesInfo.cs" />
     <Compile Include="Utils.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -91,6 +111,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
