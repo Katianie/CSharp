@@ -23,3 +23,12 @@ E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.Properties.Resources.resource
 E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csproj.GenerateResource.Cache
 E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.exe
 E:\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.pdb
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe.config
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.exe
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\bin\Release\WindowsInfo.pdb
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csprojResolveAssemblyReference.cache
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.frmMain.resources
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.Properties.Resources.resources
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.csproj.GenerateResource.Cache
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.exe
+G:\Programming\CSharp\CSharp\WindowsInfo\WindowsInfo\obj\Release\WindowsInfo.pdb

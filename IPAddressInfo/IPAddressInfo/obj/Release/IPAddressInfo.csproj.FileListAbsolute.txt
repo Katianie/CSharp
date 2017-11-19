@@ -7,3 +7,12 @@ E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.Properties.Resources.re
 E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.csproj.GenerateResource.Cache
 E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.exe
 E:\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.pdb
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\bin\Release\IPAddressInfo.exe.config
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.exe
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.pdb
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\bin\Release\IPAddressInfo.exe
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\bin\Release\IPAddressInfo.pdb
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.csprojResolveAssemblyReference.cache
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.Form1.resources
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.Properties.Resources.resources
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Release\IPAddressInfo.csproj.GenerateResource.Cache

@@ -11,3 +11,6 @@ E:\IPAddressInfo\IPAddressInfo\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Eddie\Desktop\IPAddressInfo\IPAddressInfo\bin\Debug\IPAddressInfo.exe.config
 C:\Users\Eddie\Desktop\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.exe
 C:\Users\Eddie\Desktop\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.pdb
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\bin\Debug\IPAddressInfo.exe.config
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.exe
+G:\Programming\CSharp\CSharp\IPAddressInfo\IPAddressInfo\obj\Debug\IPAddressInfo.pdb
