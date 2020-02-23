@@ -1,0 +1,10 @@
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\bin\Debug\SuspendProcess.exe.config
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\bin\Debug\SuspendProcess.exe
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\bin\Debug\SuspendProcess.pdb
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.csprojAssemblyReference.cache
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.Form1.resources
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.Properties.Resources.resources
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.csproj.GenerateResource.cache
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.csproj.CoreCompileInputs.cache
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.exe
+C:\Users\eddie\Desktop\SuspendProcess\SuspendProcess\obj\Debug\SuspendProcess.pdb

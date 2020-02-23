@@ -1,0 +1,1 @@
+Hey guys, I made an application that takes an mp3 file and splits it into different tracks. Sometimes on youtube you can find a whole album and then someone in the comments posts the track times and track names. This makes the individual mp3 files for each track name. Let me know how it works for you :) 
