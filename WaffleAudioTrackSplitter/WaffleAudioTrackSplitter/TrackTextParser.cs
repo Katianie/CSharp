@@ -54,44 +54,56 @@ namespace WaffleAudioTrackSplitter
             string trackName;
             string trackStartTime;
             string previousTrackStartTime = string.Empty;
+            string parsedLine;
             List<string> lines = new List<string>();
             
-            //Process the main block of text and split it into individual lines.
-            while (string.IsNullOrEmpty(rawText) == false)
+            if(string.IsNullOrEmpty(rawText) == false)
             {
-                //Get the index of the end of line character so we know where it ends.
-                endIndex = rawText.IndexOf(Environment.NewLine) + Environment.NewLine.Length;
+                rawText += Environment.NewLine;
 
-                //Copy the first line from the main block of text.
-                lines.Add(rawText.Substring(0, endIndex));
-
-                //Move past the line we just copied in the main string to get to the next one.
-                rawText = rawText.Substring(endIndex);
-            }
-
-            if(lines.Count > 0)
-            {
-                myParsedTrackNames = new List<string>();
-                myParsedTrackStartTimes = new List<string>();
-
-                //Process each individual line to get the start time and track name.
-                foreach (string currLine in lines)
+                //Process the main block of text and split it into individual lines.
+                while (string.IsNullOrEmpty(rawText) == false)
                 {
-                    //Separate the start time and the track name.
-                    endIndex = currLine.IndexOf(' ') + 1;
-                    trackStartTime = currLine.Substring(0, endIndex);
-                    trackName = currLine.Substring(endIndex);
+                    //Get the index of the end of line character so we know where it ends.
+                    endIndex = rawText.IndexOf(Environment.NewLine) + Environment.NewLine.Length;
 
-                    if(string.IsNullOrEmpty(trackStartTime) == false)
+                    //Ensure the parsed line doesn't turn out to be empty.
+                    parsedLine = rawText.Substring(0, endIndex);
+                    if(string.IsNullOrEmpty(parsedLine) == false && string.IsNullOrWhiteSpace(parsedLine) == false)
                     {
-                        myParsedTrackStartTimes.Add(trackStartTime);
+                        //Copy the first line from the main block of text.
+                        lines.Add(rawText.Substring(0, endIndex));
                     }
-                    if(string.IsNullOrEmpty(trackName) == false)
+
+                    //Move past the line we just copied in the main string to get to the next one.
+                    rawText = rawText.Substring(endIndex);
+                }
+
+                if (lines.Count > 0)
+                {
+                    myParsedTrackNames = new List<string>();
+                    myParsedTrackStartTimes = new List<string>();
+
+                    //Process each individual line to get the start time and track name.
+                    foreach (string currLine in lines)
                     {
-                        myParsedTrackNames.Add(trackName.Trim());
+                        //Separate the start time and the track name.
+                        endIndex = currLine.IndexOf(' ') + 1;
+                        trackStartTime = currLine.Substring(0, endIndex);
+                        trackName = currLine.Substring(endIndex);
+
+                        if (string.IsNullOrEmpty(trackStartTime) == false)
+                        {
+                            myParsedTrackStartTimes.Add(trackStartTime);
+                        }
+                        if (string.IsNullOrEmpty(trackName) == false)
+                        {
+                            myParsedTrackNames.Add(trackName.Trim());
+                        }
                     }
                 }
             }
         }
+
     }
 }

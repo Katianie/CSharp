@@ -111,7 +111,7 @@ namespace WaffleAudioTrackSplitter
                             commands.Add(currCommand);
                         }
 
-                        //Generate command for the last one in the list.
+                        //Generate command for the last one in the list since it doesn't have an end time.
                         trackStartTimeInSeconds = ConvertTimeToSeconds(parsedTrackStartTimes[parsedTrackStartTimes.Count - 1]);
                         currCommand = CreateCommand(filePath, trackStartTimeInSeconds, uint.MaxValue, parsedTrackNames[parsedTrackNames.Count - 1]);
                         commands.Add(currCommand);
@@ -147,14 +147,12 @@ namespace WaffleAudioTrackSplitter
                 //For the last track, the end time is not known.
                 if(endTimeInSeconds == uint.MaxValue)
                 {
-                    //D:\KatianieWorkspace\WaffleAudioTrackSplitter\WaffleAudioTrackSplitter\bin\Release\ffmpeg.exe -ss 0 -t 30 -i "I:\Music\Techno\HappyHardcore\Party Animals - Good Vibrations.mp3" "I:\Music\Techno\HappyHardcore\a.mp3"
-                    command = string.Format("-sseof -{0} -i \"{1}\" \"{2}\"", startTimeInSeconds, filePath, trackFileName);
+                    //Need to calculate the total duration to get the last track.
+                    endTimeInSeconds = (uint)CalculateTotalDurationInSeconds(filePath);
                 }
-                else
-                {
-                    //D:\KatianieWorkspace\WaffleAudioTrackSplitter\WaffleAudioTrackSplitter\bin\Release\ffmpeg.exe -ss 0 -t 30 -i "I:\Music\Techno\HappyHardcore\Party Animals - Good Vibrations.mp3" "I:\Music\Techno\HappyHardcore\a.mp3"
-                    command = string.Format("-ss {0} -t {1} -i \"{2}\" \"{3}\"", startTimeInSeconds, endTimeInSeconds, filePath, trackFileName);
-                }
+
+                //D:\KatianieWorkspace\WaffleAudioTrackSplitter\WaffleAudioTrackSplitter\bin\Release\ffmpeg.exe -ss 0 -t 30 -i "I:\Music\Techno\HappyHardcore\Party Animals - Good Vibrations.mp3" "I:\Music\Techno\HappyHardcore\a.mp3"
+                command = string.Format("-ss {0} -t {1} -i \"{2}\" \"{3}\"", startTimeInSeconds, (endTimeInSeconds - startTimeInSeconds), filePath, trackFileName);
             }
 
             return command;
@@ -184,7 +182,41 @@ namespace WaffleAudioTrackSplitter
                 }
             } 
         }
-        
+
+        public double CalculateTotalDurationInSeconds(string filePath)
+        {
+            string command;
+            string output;
+            double totalDurationInSeconds = 0.0;
+            Process startedProcess;
+            ProcessStartInfo processStartInfo;
+
+            if (string.IsNullOrEmpty(filePath) == false)
+            {
+                //ffprobe -i <file> -show_entries format=duration -v quiet -of csv="p=0"
+                command = string.Format("-i \"{0}\" -show_entries format=duration -v quiet -of csv=\"p=0\"", filePath);
+
+                //Launch FFProbe to get the duration of the specified file.
+                processStartInfo = new ProcessStartInfo("ffprobe.exe", command);
+                processStartInfo.UseShellExecute = false;
+                processStartInfo.RedirectStandardOutput = true;
+                using (startedProcess = Process.Start(processStartInfo))
+                {
+                    startedProcess.WaitForExit();
+                    output = startedProcess.StandardOutput.ReadToEnd();
+
+                    //The output produced by the ffprobe command contains the total duration in seconds of the file.
+                    if(string.IsNullOrEmpty(output) == false)
+                    {
+                        //Round up so we don't take away audio and instead leave a little space.
+                        totalDurationInSeconds = Math.Ceiling(double.Parse(output));
+                    }
+                }
+            }
+
+            return totalDurationInSeconds;
+        }
+
         /// <summary>
         /// Converts a provided time-stamp to its seconds equivalent.
         /// For example, the time-stamp "03:41:27" (3 hours, 41 minutes, 27 seconds) 

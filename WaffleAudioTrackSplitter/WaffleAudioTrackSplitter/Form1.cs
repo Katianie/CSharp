@@ -81,6 +81,9 @@ namespace WaffleAudioTrackSplitter
                     else
                     {
                         MessageBox.Show("Error: The number of tracks must match the number of start times.");
+
+                        //Re-enable the start button.
+                        btnStartSplit.Enabled = true;
                     } 
                 }
             }
