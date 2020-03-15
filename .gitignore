@@ -1,3 +1,13 @@
 
 *.suo
 WindowsInfo/.vs/WindowsInfo/v14/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.sln
+*.exe
+*.config
+*.pdb
+*.zip
+*.cache
